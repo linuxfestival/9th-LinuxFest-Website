@@ -1,3 +1,12 @@
+## Bower
+# Components
+bower_components
+
+## Hoverboard
+# Temps
+.temp
+
+## Node
 # Logs
 logs
 *.log
