@@ -1,7 +1,7 @@
 {
   "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "2017-05-04T09:00:00+03:30",
+  "endDate": "2017-05-05T18:00:00+03:30",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
@@ -11,7 +11,7 @@
     "twitter": "gdglviv"
   },
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "LinuxFest",
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
   },
@@ -65,32 +65,32 @@
     {
       "name": "gplus",
       "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "url": ""
     },
     {
       "name": "facebook",
       "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "url": ""
     },
     {
       "name": "linkedin",
       "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "url": ""
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Amirkabir University of Technology",
+    "address": "36 Shchyretska St, Lviv, Iran",
+    "link": "http://www.aut.ac.ir/aut/fa/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 35.703875,
+      "longitude": 51.408275,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 35.705098,
+      "longitude": 51.408969
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
