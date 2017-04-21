@@ -1,6 +1,6 @@
 {
   "title": "Linux and OpenSource Softwares Festival",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "description": "جشنواره لینوکس و نرم افزارهای متن باز امیرکبیر توسط دانشجویان دانشگاه صنعتی امیرکبیر به مدت نه سال است که برگزار می گردد. این جشنواره شامل کارگاه ها و ارائه هایی با موضوع سیستم عامل لینوکس و نرم افزار های متن باز می باشد. \n نهمین دوره این جشنواره در اردیبهشت ماه برگزار می گردد.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": " ۱۴ و ۱۵ اردیبهشت",
   "locationAddressShort": "Tehran, Iran",
@@ -122,21 +122,18 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": 11,
+      "caption": "کارگاه"
     },
     {
       "counter": 3,
-      "caption": "Days"
+      "caption": "روز"
     },
     {
-      "counter": 30,
-      "caption": "Sessions"
-    },
-    {
-      "counter": 3,
-      "caption": "Tracks"
+      "counter": 22,
+      "caption": "ارائه"
     }
+
   ],
   "callToAction": {
     "videoTitle": "GDG DevFest 2015",
