@@ -47,6 +47,10 @@
             notify: true
           },
 
+          _speakers: {
+            type: Object
+          },
+
           sessionsSource: {
             type: String,
             value: 'data/sessions.json'
@@ -55,6 +59,10 @@
           sessions: {
             type: Array,
             notify: true
+          },
+
+          _sessions: {
+            type: Object
           },
 
           scheduleSource: {
@@ -67,15 +75,14 @@
             notify: true
           },
 
-          ticketsSource: {
-            type: String,
-            value: 'data/tickets.json'
-          }
+          _schedule: {
+            type: Array
+          },
 
         },
 
         observers: [
-          '_generateSchedule(speakers, sessions, schedule)'
+          '_generateSchedule(_speakers, _sessions, _schedule)'
         ],
 
         ready: function () {
@@ -83,16 +90,16 @@
         },
 
       _generateSchedule: function () {
-        if (!Object.keys(this.speakers).length
-          || !Object.keys(this.sessions).length
-          || !Object.keys(this.schedule).length) return;
+        if (!Object.keys(this._speakers).length
+          || !Object.keys(this._sessions).length
+          || !Object.keys(this._schedule).length) return;
 
         var myWorker = new Worker('./scripts/helper/schedule-webworker.js');
 
         myWorker.postMessage({
-          speakers: this.speakers,
-          sessions: this.sessions,
-          schedule: this.schedule
+          speakers: this._speakers,
+          sessions: this._sessions,
+          schedule: this._schedule
         });
 
         myWorker.addEventListener('message', function(e) {
@@ -109,15 +116,15 @@
       },
 
       _reverseSpeakers: function (response) {
-        this.speakers = response.detail.response.reverse();
+        this._speakers = response.detail.response;
       },
 
       _reverseSessions: function (response) {
-        this.sessions = response.detail.response;
+        this._sessions = response.detail.response;
       },
 
       _reverseSchedule: function (response) {
-        this.schedule = response.detail.response.reverse();
+        this._schedule = response.detail.response;
       },
 
     });
