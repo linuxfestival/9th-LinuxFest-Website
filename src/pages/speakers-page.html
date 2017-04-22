@@ -278,12 +278,14 @@
 
         _routePageChanged: function (speakerId) {
           if (speakerId && this.selected) {
-            var tempSpeaker = this.speakers[speakerId];
-            if (tempSpeaker) {
-              window.requestAnimationFrame(function () {
-                this._selectedSpeaker = tempSpeaker;
-                this.$.speakerDetails.open();
-              }.bind(this));
+            for (var i = 0; i < this.speakers.length; i++) {
+              if (this.speakers[i].id == speakerId) {
+                window.requestAnimationFrame(function () {
+                  this._selectedSpeaker = this.speakers[i];
+                  this.$.speakerDetails.open();
+                }.bind(this));
+                break;
+              }
             }
           }
         },
