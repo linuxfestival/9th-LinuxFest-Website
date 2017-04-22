@@ -13,8 +13,6 @@
 
     <iron-ajax auto url="[[scheduleSource]]" handle-as="json" on-response="_reverseSchedule"></iron-ajax>
 
-    <iron-ajax auto url="[[ticketsSource]]" handle-as="json" on-response="_reverseTickets"></iron-ajax>
-
   </template>
   <script>
     (function () {
@@ -121,10 +119,6 @@
       _reverseSchedule: function (response) {
         this.schedule = response.detail.response.reverse();
       },
-
-      _reverseTickets: function (response) {
-        this.app.tickets = response.detail.response;
-      }
 
     });
 
