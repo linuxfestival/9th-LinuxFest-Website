@@ -13,6 +13,8 @@
 
     <iron-ajax auto url="[[scheduleSource]]" handle-as="json" on-response="_reverseSchedule"></iron-ajax>
 
+    <iron-ajax auto url="[[partnersSource]]" handle-as="json" last-response="{{app.partners}}"></iron-ajax>
+
   </template>
   <script>
     (function () {
@@ -78,6 +80,11 @@
           _schedule: {
             type: Array
           },
+
+          partnersSource: {
+            type: String,
+            value: 'data/partners.json'
+          }
 
         },
 
