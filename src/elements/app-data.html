@@ -9,89 +9,11 @@
 
     <iron-ajax auto url="[[speakersSource]]" handle-as="json" on-response="_reverseSpeakers"></iron-ajax>
 
-    <firebase-document
-      id="querySessions"
-      app-name="{$ firebase.name $}"
-      path="/sessions"
-      data="{{_firebaseSessions}}">
-    </firebase-document>
+    <iron-ajax auto url="[[sessionsSource]]" handle-as="json" on-response="_reverseSessions"></iron-ajax>
 
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="sessions"
-      data="{{_firebaseSessions}}"
-      persisted-data="{{_sessionsRaw}}">
-    </app-indexeddb-mirror>
+    <iron-ajax auto url="[[scheduleSource]]" handle-as="json" on-response="_reverseSchedule"></iron-ajax>
 
-    <firebase-document
-      id="querySchedule"
-      app-name="{$ firebase.name $}"
-      path="/schedule"
-      data="{{_firebaseSchedule}}">
-    </firebase-document>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="schedule"
-      data="{{_firebaseSchedule}}"
-      persisted-data="{{_scheduleRaw}}">
-    </app-indexeddb-mirror>
-
-    <firebase-query
-      id="queryPartners"
-      app-name="{$ firebase.name $}"
-      path="/partners"
-      data="{{_firebasePartners}}">
-    </firebase-query>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="partners"
-      data="{{_firebasePartners}}"
-      persisted-data="{{app.partners}}">
-    </app-indexeddb-mirror>
-
-    <firebase-document
-      id="queryVideos"
-      app-name="{$ firebase.name $}"
-      path="/videos"
-      data="{{_firebaseVideos}}">
-    </firebase-document>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="videos"
-      data="{{_firebaseVideos}}"
-      persisted-data="{{app.videos}}">
-    </app-indexeddb-mirror>
-
-    <firebase-query
-      id="queryTeam"
-      app-name="{$ firebase.name $}"
-      path="/team"
-      data="{{_firebaseTeam}}">
-    </firebase-query>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="team"
-      data="{{_firebaseTeam}}"
-      persisted-data="{{app.team}}">
-    </app-indexeddb-mirror>
-
-    <firebase-document
-      id="queryTickets"
-      app-name="{$ firebase.name $}"
-      path="/tickets"
-      data="{{_firebaseTickets}}">
-    </firebase-document>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="team"
-      data="{{_firebaseTickets}}"
-      persisted-data="{{app.tickets}}">
-    </app-indexeddb-mirror>
+    <iron-ajax auto url="[[ticketsSource]]" handle-as="json" on-response="_reverseTickets"></iron-ajax>
 
   </template>
   <script>
@@ -112,19 +34,24 @@
             value: 'data/blog.json'
           },
 
-          speakersSource: {
-            type: String,
-            value: 'data/speakers.json'
-          },
-
           posts: {
             type: Array,
             notify: true
           },
 
+          speakersSource: {
+            type: String,
+            value: 'data/speakers.json'
+          },
+
           speakers: {
             type: Array,
-              notify: true
+            notify: true
+          },
+
+          sessionsSource: {
+            type: String,
+            value: 'data/sessions.json'
           },
 
           sessions: {
@@ -132,26 +59,25 @@
             notify: true
           },
 
+          scheduleSource: {
+            type: String,
+            value: 'data/schedule.json'
+          },
+
           schedule: {
             type: Array,
             notify: true
           },
 
-          _speakersRaw: {
-            type: Object
-          },
-
-          _sessionsRaw: {
-            type: Object
-          },
-
-          _scheduleRaw: {
-            type: Array
+          ticketsSource: {
+            type: String,
+            value: 'data/tickets.json'
           }
+
         },
 
         observers: [
-          '_generateSchedule(_speakersRaw, _sessionsRaw, _scheduleRaw)'
+          '_generateSchedule(speakers, sessions, schedule)'
         ],
 
         ready: function () {
@@ -159,16 +85,16 @@
         },
 
       _generateSchedule: function () {
-        if (!Object.keys(this._speakersRaw).length
-          || !Object.keys(this._sessionsRaw).length
-          || !Object.keys(this._scheduleRaw).length) return;
+        if (!Object.keys(this.speakers).length
+          || !Object.keys(this.sessions).length
+          || !Object.keys(this.schedule).length) return;
 
         var myWorker = new Worker('./scripts/helper/schedule-webworker.js');
 
         myWorker.postMessage({
-          speakers: this._speakersRaw,
-          sessions: this._sessionsRaw,
-          schedule: this._scheduleRaw
+          speakers: this.speakers,
+          sessions: this.sessions,
+          schedule: this.schedule
         });
 
         myWorker.addEventListener('message', function(e) {
@@ -186,7 +112,20 @@
 
       _reverseSpeakers: function (response) {
         this.speakers = response.detail.response.reverse();
+      },
+
+      _reverseSessions: function (response) {
+        this.sessions = response.detail.response;
+      },
+
+      _reverseSchedule: function (response) {
+        this.schedule = response.detail.response.reverse();
+      },
+
+      _reverseTickets: function (response) {
+        this.app.tickets = response.detail.response;
       }
+
     });
 
   }());
