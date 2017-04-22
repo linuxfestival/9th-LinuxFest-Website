@@ -9,22 +9,6 @@
 
     <iron-ajax auto url="[[speakersSource]]" handle-as="json" on-response="_reverseSpeakers"></iron-ajax>
 
-    <!--
-    <firebase-document
-      id="querySpeakers"
-      app-name="{$ firebase.name $}"
-      path="/speakers"
-      data="{{_firebaseSpeakersRaw}}">
-    </firebase-document>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="speakers"
-      data="{{_firebaseSpeakersRaw}}"
-      persisted-data="{{_speakersRaw}}">
-    </app-indexeddb-mirror>
-    -->
-
     <firebase-document
       id="querySessions"
       app-name="{$ firebase.name $}"
@@ -123,16 +107,15 @@
             notify: true
           },
 
-
           postsSource: {
             type: String,
             value: 'data/blog.json'
           },
 
-            speakersSource: {
-              type: String,
-                value: 'data/speakers.json'
-            },
+          speakersSource: {
+            type: String,
+            value: 'data/speakers.json'
+          },
 
           posts: {
             type: Array,
@@ -202,9 +185,8 @@
       },
 
       _reverseSpeakers: function (response) {
-              this.speakers = response.detail.response.reverse();
-              console.log(this.speakers);
-          }
+        this.speakers = response.detail.response.reverse();
+      }
     });
 
   }());
