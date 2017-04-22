@@ -1,27 +1,31 @@
 [
   {
-"bio" : "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
-"company" : "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-"companyLogo" : "/images/logos/gdg- .svg",
-"country" : "ایران، تهران، پالادیوم",
-"featured" : true,
-"id" : 1,
-"name" : "پرهام الوانی",
-"photoUrl" : "/images/people/mete_atamel.jpg",
-"shortBio" : "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
-"socials" : [ {
-"icon" : "linkedin",
-"link" : "https://www.linkedin.com/in/meteatamel/",
-"name" : "LinkedIn"
-}, {
-"icon" : "twitter",
-"link" : "https://twitter.com/meteatamel/",
-"name" : "Twitter"
-}, {
-"icon" : "github",
-"link" : "https://github.com/meteatamel/",
-"name" : "GitHub"
-} ],
-"tags" : [ "Cloud", "Compute Engine", "gRPC" ],
-"title" : "Developer Advocate"
-} ]
+    "bio" : "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
+    "company" : "آزمابشگاه اینرنت اشیا صبایی و شرکا",
+    "companyLogo" : "",
+    "country" : "ایران، تهران، پالادیوم",
+    "featured" : true,
+    "id" : 1,
+    "name" : "پرهام الوانی",
+    "photoUrl" : "https://avatars3.githubusercontent.com/u/8181240?v=3&s=460",
+    "shortBio" : "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
+    "socials" :
+    [
+      {
+        "icon" : "instagram",
+        "link" : "https://www.linkedin.com/in/meteatamel/",
+        "name" : "Instagram"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/1995parham/",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/1995parham/",
+        "name" : "GitHub"
+      }
+    ],
+    "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
+    "title" : "Developer Advocate"
+  }
+]
