@@ -12,8 +12,6 @@
 <link rel="import" href="../bower_components/iron-pages/iron-pages.html">
 <link rel="import" href="../bower_components/iron-selector/iron-selector.html">
 
-<link rel="import" href="../bower_components/polymerfire/polymerfire.html">
-
 <link rel="import" href="../bower_components/neon-animation/neon-animated-pages.html">
 <link rel="import" href="../bower_components/neon-animation/animations/fade-out-animation.html">
 <link rel="import" href="../bower_components/neon-animation/animations/scale-up-animation.html">
@@ -112,13 +110,6 @@
       data="{{routeData}}"
       tail="{{subRoute}}"></app-route>
 
-    <firebase-app
-      name="{$ firebase.name $}"
-      auth-domain="{$ firebase.domain $}"
-      database-url="{$ firebase.database $}"
-      api-key="{$ firebase.api $}">
-    </firebase-app>
-
     <app-data
       app="{{app}}"
       speakers="{{speakers}}"
@@ -126,14 +117,6 @@
       schedule="{{schedule}}"
       posts="{{posts}}"
     ></app-data>
-
-    <firebase-auth
-      id="auth"
-      provider="google"
-      app-name="{$ firebase.name $}"
-      user="{{app.user}}"
-      status-known="{{_authStatusKnown}}"
-    ></firebase-auth>
 
     <app-drawer-layout id="drawerLayout" drawer-width="599px" force-narrow>
 
