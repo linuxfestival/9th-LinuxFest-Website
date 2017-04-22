@@ -1,4 +1,6 @@
 function getSession(session, day, dayIndex, schedule, speakersRaw) {
+  'use strict';
+
   session.mainTag = session.tags ? session.tags[0] : 'General';
   session.day = dayIndex + 1;
 
@@ -29,6 +31,8 @@ function getSession(session, day, dayIndex, schedule, speakersRaw) {
 }
 
 function getEndTime(date, startTime, endTime, totalNumber, number) {
+  'use strict';
+
   var timezone = new Date().toString().match(/([A-Z]+[\+-][0-9]+.*)/)[1],
     timeStart = new Date(date + ' ' + startTime + ' ' + timezone).getTime(),
     timeEnd = new Date(date + ' ' + endTime + ' ' + timezone).getTime(),
