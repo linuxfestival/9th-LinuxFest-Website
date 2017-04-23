@@ -48,20 +48,6 @@
       query-params="{{queryParams}}"
     ></app-route>
 
-    <firebase-document
-      id="userSessions"
-      app-name="{$ firebase.name $}"
-      path="{$ firebase.userSessionsPath $}/[[app.user.uid]]"
-      data="{{persistedData}}">
-    </firebase-document>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="mySchedule"
-      data="{{persistedData}}"
-      persisted-data="{{app.user.sessions}}">
-    </app-indexeddb-mirror>
-
     <div class="container" phone$="{{app.isPhoneSize}}">
       <schedule-subnav
         app="{{app}}"
