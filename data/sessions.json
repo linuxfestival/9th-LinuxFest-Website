@@ -23,7 +23,7 @@
   },
   "102": {
     "complexity": "پیشرفته",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "1-مقدمه ای بر رایانش ابری و مفاهیم مجازی سازی \n\n 2-معرفی راه حل های طراحی و پیاده¬سازی محیط¬های ابری \n\n3-معماری OpenStack \n\n4- بررسی اجزاء OpenStack \n\n5-پیاده¬سازی یک سناریو محیط ابری به وسیله OpenStack ",
     "id": 102,
     "language": "فارسی",
     "speakers": [
@@ -94,7 +94,7 @@
   },
   "201": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "مباحث کارگاه داکر:\n\nداکر چیست و چرا؟ \n\nمجازی سازی یا کانتینربندی؟ \n\nدستورات مقدماتی داکر\n\nشبکه در داکر\n\nداکر رجیستر\n\nساخت\n\nimage داکر\n\nنوشتن داکرفایل\n\nنوشتن فایل داکر کامپوز\n\nswarm mode\n\nساخت خوشه با داکر\n\nمستفر کردن یک سرویس توزیع شده با داکر",
     "id": 201,
     "language": "فارسی",
     "speakers": [
@@ -133,7 +133,7 @@
   },
   "204": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "در این ارائه به معرفی استک Elastic شامل Elasticsearch به عنوان محل ذخیره داده و موتور جستجو (متنی)، Logstash و Beats برای جمع آوری و غنی سازی داده ها و Kibana به عنوان ابزاری برای ساخت داشبورد ها و مانیتور داده‌های موجود در Elasticsearch خواهیم پرداخت. در ابتدا به توضیح معماری و کاربردهای این استک می‌پردازیم. سپس مباحث مربوط به چگونگی ذخیره‌سازی داده‌ها بر روی Elasticsearch و نحوه‌ی کوئری‌ زدن بر روی آن معرفی خواهد شد. سپس قابلیت‌های پیشرفته تر این موتور جستجو برای تحلیل داده‌های متنی و غیرمتنی توضیح داده خواهد شد. پس از آن به معرفی   Logstash و Beats می‌پردازیم که وظیفه‌ی جمع‌آوری و غنی‌سازی داده‌ها را در این استک بر عهده دارند. مثالی از کاربرد این ابزارها در مانیتور کردن سرورها توضیح داده خواهد شد. در آخرین مرحله به معرفی   Kibana خواهیم پرداخت که ابزاری قدرتمند برای بصری سازی داده‌های ذخیره شده بر روی Elasticsearch است و نحوه‌ی ساختن داشبوردی برای مانیتور کردن بلادرنگ داده‌ها توضیح داده خواهد شد. در پایان به معرفی قابلیت‌های پلاگین Timelion در Kibana می‌پردازیم که ابزاری مفید برای بصری سازی و انجام تحلیل‌های ساده بر روی داده‌های سری زمانی است. در انتها نیز مواردی جهت افزایش کارایی و سرعت ذخیره‌سازی و سرچ بر روی داده‌ها توضیح داده خواهد شد. ",
     "id": 204,
     "language": "فارسی",
     "speakers": [
@@ -146,7 +146,7 @@
   },
   "205": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 205,
     "language": "فارسی",
     "speakers": [
@@ -186,7 +186,7 @@
   },
   "208": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "با توجه به رشد کسب و کارهای آنلاین در ایران نیاز به یک سیستم توسعه پذیر به شدت حس می‌شود اما به دلیل عدم وجود زیرساخت‌های Cloud Computing عمومی در ایران مانند Google Cloud Platform و Amazon Web Services موانع زیادی برای پیاده‌سازی یک سیستم پایدار با تعداد کاربر بسیار بالا نیاز دارد. این ارائه سعی دارد که روشی را برای توسعه این گونه نرم‌افزارها در بستری که در حال حاضر در کشور موجود است توضیح دهد. در این ارائه تجربیاتی که در توسعه Quiz of Kings داشته‌ام را توضیح می‌دهم و راه‌حلی را که برای رسیدن به یک سیستم با میلیون‌ها کاربر به آن رسیدیم را بیان خواهم کرد.",
     "id": 208,
     "language": "فارسی",
     "speakers": [
@@ -199,16 +199,16 @@
   },
   "209": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "TensorFlow یک کتابخانه نرم افزاری متن باز برای پیاده سازی الگوریتم های هوش ماشینی است که توسط تیم Google Brain  برای مقاصد تخقیقاتی و تولید محصولات هوشمند، ساخته شده است. در این ارائه، برنامه ای برای پیش بینی قیمت ملک با این کتابخانه پیاده سازی خواهد شد/",
     "id": 209,
     "language": "فارسی",
     "speakers": [
-      6
+      24
     ],
     "tags": [
       "opensource"
     ],
-    "title": "آشنایی با Tensor Flow"
+    "title": "هوش ماشین با Tensor Flow"
   },
   "210": {
     "complexity": "مبتدی",
@@ -225,7 +225,7 @@
   },
   "211": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "به نظر میرسد رویای علمی-تخلی حیات در دنیای مجازی به تحقق نزدیک شده است. در سال های اخیر جامعه جهانی محققان و همچنین فناوری های موجود در زمینه رباتیک و هوش مصنوعی به این بلوغ رسیده اند که بستر های شبیه سازی تمامی نیازهای دنیای واقعی را مرتفع میکند و چه بسا مزیت های بیشتری هم به این حوزه پیشکش میکند. از نشانه های حرکت به سمت دنیای شبیه سازی شده برگزاری اولین دوره مسابقات Space Robotics توسط NASA است که با هدف برنامه ریزی ربات انسان نمای ناسا (Valkyrie) برای انجام عملیات در ایستگاه فضایی بین‌المللی ISS طراحی شده است و اختصاص جایزه یک میلیون دلاری نشان از اهمیت بالای این حوزه دارد. این مسابقات اما به جای استفاده از ربات واقعی و در مکان واقعی در بسترشبیه سازی شده Gazebo و تحت رابط نرم افزاری ROS اجرا خواهد شد. از دیگر نشانه های این موضوع، مسابقات Swarmathon ناسا است که هدف آن تست و ارزیابی امکان استفاده از تعداد زیاد ربات ها در همکاری با یکدیگر برای انجام اهداف برنامه ریزی شده مشترک است. این مسابقات نیز به منظور کنار گذاشتن پیچیدگی های مکانیکی و کنترلی و تمرکز بر روی الگوریتم و هوش Agent ها در محیط شبیه سازی برگزار میشود. در این ارائه، بر آن شدیم تا آخرین فناوری های این حوزه اعم از محیط شبیه سازی، میان-افزار، سیستم عامل ربات ها و معماری استفاده شده را معرفی و همچنین نحوه راه اندازی یک سیستم شامل ایجاد یک دنیای مجازی، ساخت، تولید و کنترل ربات های شبیه سازی شده در این محیط  به همراه یک نسخه نمایشی از رفتار های پیاده سازی شده برای یک تیم امداد و نجات رباتی، اجمالا توضیح داده شود.",
     "id": 211,
     "language": "فارسی",
     "speakers": [
@@ -238,7 +238,7 @@
   },
   "212": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "برنامه نویسی تابعی، همانند الگوهای برنامه نویسی شئ‌گرا و دستوری، یکی از الگوهای برنامه نویسی است.  در این الگو تلاش می‌شود نوشتن برنامه‌ها تحت تاثیر ساختار ماشین ون نیومن قرار نگیرد. بنابراین در یک زبان برنامه نویسی مبتنی بر الگوی تابعی، برنامه نویس به جای دیکته کردن نحوه‌ی انجام کار به ماشین، کاری که از آن انتظار دارد را مطرح می‌کند. در نتیجه، این امر، منجر به کاهش پیچیدگی ساختار برنامه‌ها و افزایش بهره‌وری در تولید نرم افزار می‌گردد. همانگونه که از نام این الگو پیداست، محاسبات در یک زبان مبتنی بر الگوی‌ تابعی به کمک محاسبه‌ی توابع انجام می‌پذیرد. از طرفی هیچ تابعی نمی‌بایست دارای اثر جانبی باشد. این بدان معناست که فراخوانی هر تابعی، منجر به تغییر وضعیت قسمتی دیگر از برنامه نمی‌شود. بنابراین فراخوانی یک تابع به ازای یک ورودی مشخص همیشه منجر به خروجی یکسانی می‌شود. زبان‌های چندالگویی زیادی از الگوی تابعی در کنار سایر الگوها، مانند الگوی شئ‌گرا، استفاده می‌کنند. در این میان می‌توان زبان‌های Python، C++، Java و Scala را نام برد. برای تابعی شمرده شدن یک زبان فاکتورهایی وجود دارد که زبان‌های چندالگویی جهت پشتیبانی از سایر الگوها، بخش محدودی از این فاکتورها را پشتیبانی کنند. از این رو در این ارائه برای توضیح الگوی تابعی از زبان Haskell به عنوان یک زبان تابعی صرف بهره گرفته می‌شود.",
     "id": 212,
     "language": "فارسی",
     "speakers": [
@@ -270,7 +270,7 @@
   },
   "109": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "در این کارگاه به مفاهیم پایه شبکه در سیستم عامل لینوکس پرداخته می شود:\n\n 1-آشنایی با tcp/ip \n\n 2- ابزارهای پایه شبکه \n\n 3- آشنایی با جدول IP \n\n 4- جدول IP پیشرفته ",
     "id": 109,
     "language": "فارسی",
     "speakers": [
@@ -283,7 +283,7 @@
   },
   "110": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "آپاچی کافکا یکی از معروف‌ترین بسترهای پردازش داده‌های جاری است که به عنوان قلب پایپ‌لاین‌های پردازش داده‌های جاری و بیگ‌دیتا مطرح است. در این کارگاه ابتدا با مبانی اصلی پایپ‌لاین‌های پردازش داده‌های جاری و نقش Message Broker ها در آن‌ها آشنا می‌شویم. سپس به چگونگی نصب و برخی تنظیمات اولیه یک کلاستر آپاچی کافکا پرداخته خواهد شد. در انتها هم با پیاده‌سازی یک Producer و یک Consumer به صورت عملی با نحوه‌ی تعامل با کافکا با استفاده‌ از Java API آن آشنا خواهیم شد. لازم است شرکت‌کنندگان از سابقه‌ی قبلی برنامه‌نویسی جاوا برخوردار باشند. سایر مفاهیم موردنیاز مرتبط با پردازش داده‌های جاری و بیگ‌دیتا در خلال کارگاه مطرح خواهد شد. همراه داشتن یک لپ‌تاپ با ابزارهای توسعه‌ی جاوا و قابلیت اتصال به اینترنت برای بخش عملی کارگاه الزامی است.",
     "id": 110,
     "language": "فارسی",
     "speakers": [
@@ -296,7 +296,7 @@
   },
   "111": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "1-مقدمه ای بر رایانش ابری و مفاهیم مجازی سازی \n\n 2-معرفی راه حل های طراحی و پیاده¬سازی محیط¬های ابری \n\n3-معماری OpenStack \n\n4- بررسی اجزاء OpenStack \n\n5-پیاده¬سازی یک سناریو محیط ابری به وسیله OpenStack ",
     "id": 111,
     "language": "فارسی",
     "speakers": [
@@ -348,7 +348,7 @@
   },
   "303": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "خودمونیما ولی خیلیامون وقتی می‌بینیم یه مبحثی توی کامپیوتر داغ شده تصمیم می‌گیریم ما هم از قافله عقب نمونیم و ازش استفاده کنیم. معماری میکروسرویس هم یکی از مباحث داغ امروز نرم‌افزاره که از قاعده مستثنا نیست. وقتی توی اینترنت جست‌وجو کنید، پره از بلاگ‌هایی در ستایش این رویکرد. پس بیاید یه دور مشکلاتی که قراره بهش بر بخوریم رو با هم مرور کنیم که اگه راست کار ما نیست بیخودی با micro-service دهن خود را service نکنیم!",
     "id": 303,
     "language": "فارسی",
     "speakers": [
