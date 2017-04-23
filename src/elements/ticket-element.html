@@ -25,6 +25,7 @@
         -webkit-flex: 1 1 auto;
         border-radius: 3px;
         user-select: none;
+        direction: ltr;
       }
 
       .inner {
@@ -81,6 +82,7 @@
         margin: 0 30px;
         font-size: 50px;
         line-height: 1;
+        direction: rtl;
       }
 
       .divider {
@@ -126,7 +128,7 @@
     <div class="punch"></div>
     <div class="inner">
       <div class="main">
-        <div class="headline">[[price]][[currency]]</div>
+        <div class="headline">[[price]] [[currency]]</div>
         <div class="divider">
           <iron-icon icon="icons:star"></iron-icon>
         </div>
@@ -137,7 +139,7 @@
     <div class="side">
       <div class="side-content">[[type]]</div>
     </div>
-    <div class="overlay" hidden$="{{!soldOut}}">[[soldOutText]]</div>
+    <div class="overlay" hidden$="[[!soldOut]]">[[soldOutText]]</div>
   </template>
 
   <script>
@@ -154,7 +156,7 @@
           },
 
           price: {
-            type: Number
+            type: String
           },
 
           currency: {
