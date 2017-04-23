@@ -32,7 +32,7 @@
     "tags": [
       "linux"
     ],
-    "title": "کارگاه لینوکس پشرفته"
+    "title": "کارگاه لینوکس پیشرفته"
   },
   "103": {
     "complexity": "مبتدی",
@@ -98,10 +98,10 @@
     "id": 201,
     "language": "فارسی",
     "speakers": [
-      13
+      25
     ],
     "tags": [
-      "cloud"
+      "opensource"
     ],
     "title": "فارسی سازی LibreOffice "
   },
@@ -111,10 +111,10 @@
     "id": 202,
     "language": "فارسی",
     "speakers": [
-      13
+      19
     ],
     "tags": [
-      "cloud"
+      "programming"
     ],
     "title": "Node.js  در 30 دقیقه"
   },
@@ -124,10 +124,10 @@
     "id": 203,
     "language": "فارسی",
     "speakers": [
-      13
+      1
     ],
     "tags": [
-      "cloud"
+      "linux"
     ],
     "title": "تحولات اوبونتو"
   },
@@ -137,10 +137,10 @@
     "id": 204,
     "language": "فارسی",
     "speakers": [
-      13
+      18
     ],
     "tags": [
-      "cloud"
+      "data"
     ],
     "title": " معرفی Elastic Stack"
   },
@@ -150,12 +150,13 @@
     "id": 205,
     "language": "فارسی",
     "speakers": [
-      13
+      1
     ],
     "tags": [
-      "cloud"
+      "cloud",
+      "opensource"
     ],
-    "title": "همه آن چیزی که لازم است در باره ی CI/CS بدانید"
+    "title": "همه آن چیزی که لازم است در باره ی CI/CD بدانید"
   },
   "206": {
     "complexity": "مبتدی",
@@ -163,10 +164,10 @@
     "id": 206,
     "language": "فارسی",
     "speakers": [
-      13
+      0
     ],
     "tags": [
-      "cloud"
+      "iot"
     ],
     "title": "میان افزاری به نام i1820"
   },
@@ -176,10 +177,10 @@
     "id": 207,
     "language": "فارسی",
     "speakers": [
-      13
+      20
     ],
     "tags": [
-      "cloud"
+      "iot"
     ],
     "title": "اینترنت اشیا در لینوکس"
   },
@@ -189,7 +190,7 @@
     "id": 208,
     "language": "فارسی",
     "speakers": [
-      13
+      7
     ],
     "tags": [
       "cloud"
@@ -202,10 +203,10 @@
     "id": 209,
     "language": "فارسی",
     "speakers": [
-      13
+      6
     ],
     "tags": [
-      "cloud"
+      "opensource"
     ],
     "title": "آشنایی با Tensor Flow"
   },
@@ -215,10 +216,10 @@
     "id": 210,
     "language": "فارسی",
     "speakers": [
-      13
+      24
     ],
     "tags": [
-      "cloud"
+      "opensource"
     ],
     "title": "آشنایی با Expo"
   },
@@ -228,7 +229,7 @@
     "id": 211,
     "language": "فارسی",
     "speakers": [
-      13
+      6
     ],
     "tags": [
       "cloud"
@@ -241,10 +242,10 @@
     "id": 212,
     "language": "فارسی",
     "speakers": [
-      13
+      10
     ],
     "tags": [
-      "cloud"
+      "programming"
     ],
     "title": "Haskel، پیچیده یا ساده؟"
   },
@@ -260,10 +261,10 @@
     "id": 108,
     "language": "فارسی",
     "speakers": [
-      13
+      5
     ],
     "tags": [
-      "cloud"
+      "programming"
     ],
     "title": "کارگاه ابزارهای علمی در پایتون"
   },
@@ -273,10 +274,10 @@
     "id": 109,
     "language": "فارسی",
     "speakers": [
-      13
+      17
     ],
     "tags": [
-      "cloud"
+      "linux"
     ],
     "title": "شبکه در لینوکس"
   },
@@ -286,10 +287,10 @@
     "id": 110,
     "language": "فارسی",
     "speakers": [
-      13
+      15
     ],
     "tags": [
-      "cloud"
+      "data"
     ],
     "title": " کارگاه پیاده سازی و اجرای Apache Kafka"
   },
@@ -299,7 +300,7 @@
     "id": 111,
     "language": "فارسی",
     "speakers": [
-      13
+      2
     ],
     "tags": [
       "cloud"
@@ -312,10 +313,10 @@
     "id": 112,
     "language": "فارسی",
     "speakers": [
-      13
+      16
     ],
     "tags": [
-      "cloud"
+      "programming"
     ],
     "title": "کارگاه NodeJS"
   },
@@ -325,10 +326,10 @@
     "id": 301,
     "language": "فارسی",
     "speakers": [
-      13
+      0
     ],
     "tags": [
-      "cloud"
+      "programming"
     ],
     "title": "Golang : آینده C"
   },
@@ -338,10 +339,10 @@
     "id": 302,
     "language": "فارسی",
     "speakers": [
-      13
+      22
     ],
     "tags": [
-      "cloud"
+      "opensource"
     ],
     "title": "خدمات متقابل اپن‌سورس، شرکت‌ها، و دانشجویان"
   },
@@ -351,7 +352,7 @@
     "id": 303,
     "language": "فارسی",
     "speakers": [
-      13
+      3
     ],
     "tags": [
       "cloud"
@@ -364,10 +365,10 @@
     "id": 304,
     "language": "فارسی",
     "speakers": [
-      13
+      21
     ],
     "tags": [
-      "cloud"
+      "opensource"
     ],
     "title": "زنجیره سرویس در NFV"
   },
@@ -377,10 +378,10 @@
     "id": 305,
     "language": "فارسی",
     "speakers": [
-      13
+      11
     ],
     "tags": [
-      "cloud"
+      "opensource"
     ],
     "title": "ذخیره سازهای نرم افزار بنیان"
   },
@@ -390,10 +391,10 @@
     "id": 306,
     "language": "فارسی",
     "speakers": [
-      13
+      26
     ],
     "tags": [
-      "cloud"
+      "opensource"
     ],
     "title": "سیستم عامل های آزاد در تلفن همراه"
   },
@@ -403,10 +404,10 @@
     "id": 307,
     "language": "فارسی",
     "speakers": [
-      13
+      27
     ],
     "tags": [
-      "cloud"
+      "opensource"
     ],
     "title": "آشنایی با Android Things"
   },
@@ -416,10 +417,10 @@
     "id": 308,
     "language": "فارسی",
     "speakers": [
-      13
+      15
     ],
     "tags": [
-      "cloud"
+      "data"
     ],
     "title": "از دیتای حجیم تا دیتای سریع"
   },
@@ -429,10 +430,10 @@
     "id": 309,
     "language": "فارسی",
     "speakers": [
-      13
+      23
     ],
     "tags": [
-      "cloud"
+      "data"
     ],
     "title": "آشنایی با cassandra"
   },
@@ -442,10 +443,10 @@
     "id": 310,
     "language": "فارسی",
     "speakers": [
-      13
+
     ],
     "tags": [
-      "cloud"
+      "iot"
     ],
     "title": "آشنایی با Kaa"
   }
