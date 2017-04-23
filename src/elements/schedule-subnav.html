@@ -143,6 +143,8 @@
           <template is="dom-repeat" items="[[schedule]]" as="day">
             <paper-tab day$="day[[_addToValue(index, 1)]]" link>
               <a href$="/schedule/day[[_addToValue(index, 1)]]" layout center>
+                [[day.dateType]]
+                <br>
                 [[day.dateReadable]]
               </a>
             </paper-tab>
