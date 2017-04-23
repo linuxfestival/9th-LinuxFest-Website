@@ -77,7 +77,7 @@
             starts="{$ ticket.starts $}"
             ends="{$ ticket.ends $}"
             info="{$ ticket.info $}"
-            sold-out="{$ ticket.soldOut $}"
+            {% if ticket.soldOut %}sold-out{% endif %}
             sold-out-text="{$ soldOutTickets $}">
           </ticket-element>
         {% endfor %}
