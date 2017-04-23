@@ -77,20 +77,6 @@
       }
     </style>
 
-    <firebase-document
-      id="userRatings"
-      app-name="{$ firebase.name $}"
-      path="{$ firebase.ratingsPath $}/[[app.user.uid]]"
-      data="{{persistedData}}">
-    </firebase-document>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="ratings"
-      data="{{persistedData}}"
-      persisted-data="{{app.user.ratings}}">
-    </app-indexeddb-mirror>
-
     <paper-scroll-header-panel id="scrollHeaderPanel" no-reveal>
       <paper-toolbar class="tall">
         <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
@@ -112,7 +98,7 @@
           <div class="main-info">
             <div class="info">
               <h1 class="main-title">[[session.title]]</h1>
-              <div class="meta highlight">[[session.dateReadable]] / [[session.startTime]] - [[session.endTime]] /
+              <div class="meta highlight">[[session.dateReadable]] / [[session.startTimeReadable]] - [[session.endTimeReadable]] /
                 [[session.track.title]]
                 <span hidden$="[[!session.language]]">
                   / [[session.language]]
