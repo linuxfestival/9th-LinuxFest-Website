@@ -7,4 +7,7 @@ USER node
 WORKDIR /app
 
 EXPOSE 3000 3001
-CMD npm install && npm run gulp -- serve
+
+RUN npm install
+
+CMD npm run gulp -- serve

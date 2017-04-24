@@ -45,6 +45,25 @@
         @apply(--layout-fit);
         padding: 0;
       }
+
+      .h_iframe-aparat_embed_frame {
+        position:relative;
+      }
+
+     .h_iframe-aparat_embed_frame .ratio {
+       display:block;
+       width:100%;
+       height:auto;
+     }
+
+     .h_iframe-aparat_embed_frame iframe {
+       position:absolute;
+       top:0;
+       left:0;
+       width:100%;
+       height:100%;
+     }
+
     </style>
 
     <paper-toolbar class="toolbar">
@@ -52,6 +71,7 @@
       <span>[[videoTitle]]</span>
     </paper-toolbar>
     <div class="video-wrapper">
+      <!--
       <google-youtube
         id="video"
         class="video"
@@ -61,6 +81,11 @@
         autohide="1"
         chromeless="[[disableControls]]"
       ></google-youtube>
+      -->
+      <div class="h_iframe-aparat_embed_frame">
+        <span style="display: block;padding-top: 57%"></span>
+        <iframe id="video" class="video" src="http://www.aparat.com/video/video/embed/videohash/[[youtubeId]]/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" ></iframe>
+      </div>
     </div>
 
   </template>
@@ -108,12 +133,12 @@
             this.backdropElement.open();
           }
           this.playAnimation('entry');
-          this.$.video.play();
+          //this.$.video.contentWindow.jwplayer().play();
         },
 
         _renderClosed: function () {
-          this.$.video.seekTo(0);
-          this.$.video.pause();
+          //this.$.video.seekTo(0);
+          //this.$.video.pause();
           if (!this._secondLayer) {
             this.backdropElement.close();
           }
