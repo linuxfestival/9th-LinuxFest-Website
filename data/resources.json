@@ -14,11 +14,11 @@
   "subscribeNote": "در جریان آخرین اخبار جشنواره قرار گیرید",
   "contactUs": "ارتباط  با ما",
   "ticketsTitle": "بلیط ها",
-  "ticketsDetails": "با خرید بلیط هر روز جشنواره می توانید در کارگاه های آن روز شرکت کنید. ",
+  "ticketsDetails": "با خرید بلیط کارگاه ها می توانید در مدت 2 روز جشنواره در هر کدام از کارگاه های مورد نظر شرکت نمایید. ",
   "close": "بستن",
   "soldOutTickets": "به اتمام رسید",
   "socialTitle": "شبکه های اجتماعی",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
+  "socialMotto": "کانال تلگرام، اکانت توییتر و صفحه اینستاگرام ما را دنبال کنید.",
   "beforeHashtag": "جشنواره را با این هشتگ دنبال کنید:",
   "clickToViewPhotos": "Click here to view more photos",
   "partners": "حامیان جشنواره",
@@ -32,10 +32,10 @@
   "locationDescription": "امیرکبیر خیلی دانشگاه خوبیه",
   "locationAddress": "۴۲۴ خیابان حافظ",
   "organizerTitle": "برگزار کنندگان",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "aboutOrganizers":  "جشنواره لینوکس امیرکبیر توسط انجمن علمی دانشکده مهندسی کامپیوتر و فناوری اطلاعات دانشگاه صنعتی امیرکبیرو با کمک دانشجویان و تمام افرادی که علاقه مند به سیستم عامل لینوکس و نرم افزار های متن باز می باشند برگزار می گردد. در صورتی که هرگونه پیشنهاد یا انتقادی درباره ی هر بخش از جشنواره داشتید لطفا با ما در میان بگذارید.",
   "openTeamPage": "تیم اجرایی جشنواره",
   "whatIsGdg": "درباره ی جشنواره بیشتر بدانید",
-  "aboutGdg": "جشنواره‌ی لینوکس جایی است که در آن می‌توان با لینوکس خوشحال بود.",
+  "aboutGdg": "جشنواره لینوکس و نرم افزارهای متن باز امیرکبیر نه سال پیش جهت آشنایی دانشجویان با سیستم عامل لینوکس برگزار گردید. در ابتدا با نام جشنواره ملی لینوکس امیرکبیر شروع به کار کرد. این جشنواره شامل تعداد کارگاه مقدماتی و پیشرفته درباره سیستم عامل لینوکس بود. پس از دوره 6 ام بخش ارائه نیز به جشنواره اضافه گردید و نام آن به جشنواره لینوکس و نرم افزار های متن باز امیرکبیر تغییر یافت.",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -143,30 +143,38 @@
   "tickets": {
     "elements" : [
       {
-        "currency" : "ریال",
-        "ends" : "May 3",
-        "info" : "Requires valid student ID",
-        "name" : "دانشجویی",
-        "price" : "۵۰۰",
-        "soldOut" : true,
-        "starts" : "April 23"
+        "currency" : "تومان",
+        "ends" : "12 اردیبهشت",
+        "info" : "ارائه کارت دانشجویی معتبر",
+        "name" : "بلیط دانشجویی کارگاه ها",
+        "price" : "25,000",
+        "soldOut" : false,
+        "starts" : "5 اردیبهشت"
       },
       {
-        "currency" : "ریال",
-        "ends" : "May 3",
-        "info" : "Or first 100 tickets",
-        "name" : "Early Bird",
-        "price" : "۱۰۰۰",
+        "currency" : "تومان",
+        "ends" : "8 اردیبهشت",
+        "info" : "100 بلیط اول",
+        "name" : "بلیط زود هنگام کارگاه ها",
+        "price" : "25,000",
         "soldOut" : false,
-        "starts" : "April 23"
+        "starts" : "5 اردیبهشت"
       },
       {
-        "currency" : "ریال",
-        "ends" : "Sep 8",
-        "name" : "Lazy Bird",
-        "price" : "۱۵۰۰",
+        "currency" : "تومان",
+        "ends" : "12 اردیبهشت",
+        "name" : "بلیط دیر هنگام کارگاه ها",
+        "price" : "40,000",
         "soldOut" : false,
-        "starts" : "April 23"
+        "starts" : "8 اردیبهشت"
+      },
+      {
+        "currency" : "رایگان",
+        "ends" : "12 اردیبهشت",
+        "name" : "شرکت در ارائه ها",
+        "price" : "",
+        "soldOut" : false,
+        "starts" : "5 اردیبهشت"
       }
     ],
     "url" : "http://2event.com/events/630032"

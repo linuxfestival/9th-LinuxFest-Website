@@ -1,6 +1,6 @@
 [
   {
-    "bio": "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
+
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/i1820.png",
     "company": "توسعه دهنده نرم افزار های متن باز",
@@ -8,7 +8,7 @@
     "id": 1,
     "name": "پرهام الوانی",
     "photoUrl": "/images/people/alvani.jpg",
-    "shortBio": "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
+
     "socials": [
       {
         "icon": "instagram",
@@ -379,7 +379,7 @@
     "featured": true,
     "id": 12,
     "name": "محمود شیری ورامینی",
-    "photoUrl": "/images/people/shiri.jpg",
+    "photoUrl": "/images/people/unknown.svg",
     "shortBio": "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
     "socials": [
       {
@@ -445,7 +445,7 @@
     "featured": true,
     "id": 14,
     "name": "امید گودرزی",
-    "photoUrl": "/images/people/goodarzi.jpg",
+    "photoUrl": "/images/people/unknown.svg",
     "shortBio": "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
     "socials": [
       {
@@ -543,7 +543,7 @@
     "featured": true,
     "id": 17,
     "name": "فرزان رواقی نوبخت",
-    "photoUrl": "/images/people/ravaghi.jpg",
+    "photoUrl": "/images/people/unknown.svg",
     "shortBio": "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
     "socials": [
       {
@@ -849,7 +849,7 @@
     "featured": true,
     "id": 26,
     "name": "حسین نوری خواه",
-    "photoUrl": "/images/people/parصsa.jpg",
+    "photoUrl": "/images/people/unknown.svg",
     "shortBio": "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
     "socials": [
       {
@@ -881,7 +881,7 @@
     "featured": true,
     "id": 27,
     "name": "احمد طاهری ",
-    "photoUrl": "/images/people/parتsa.jpg",
+    "photoUrl": "/images/people/unknown.svg",
     "shortBio": "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
     "socials": [
       {
@@ -913,7 +913,7 @@
     "featured": true,
     "id": 28,
     "name": "حسین شمشادی",
-    "photoUrl": "/images/people/shemshadi.jpg",
+    "photoUrl": "/images/people/unknown.svg",
     "shortBio": "الوانی خیلی خفنه اون از بچگی کد میزنه و کلی سرور خفن داره. همه الوانی رو دوست دارن",
     "socials": [
       {
