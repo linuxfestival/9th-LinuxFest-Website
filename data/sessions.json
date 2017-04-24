@@ -10,7 +10,7 @@
   },
   "101": {
     "complexity": "همه سطوح",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "1-مقدمه ای بر رایانش ابری و مفاهیم مجازی سازی2\n\n-معرفی راه حل های طراحی و پیاده¬سازی محیط¬های ابری3\n\n-معماری OpenStack4\n\n-بررسی اجزاء \n\nOpenStack5-پیاده¬سازی یک سناریو محیط ابری به وسیله OpenStack ",
     "id": 101,
     "language": "فارسی",
     "speakers": [
@@ -23,7 +23,7 @@
   },
   "102": {
     "complexity": "پیشرفته",
-    "description": "1-مقدمه ای بر رایانش ابری و مفاهیم مجازی سازی \n\n 2-معرفی راه حل های طراحی و پیاده¬سازی محیط¬های ابری \n\n3-معماری OpenStack \n\n4- بررسی اجزاء OpenStack \n\n5-پیاده¬سازی یک سناریو محیط ابری به وسیله OpenStack ",
+    "description": "",
     "id": 102,
     "language": "فارسی",
     "speakers": [
@@ -36,7 +36,7 @@
   },
   "103": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 103,
     "language": "فارسی",
     "speakers": [
@@ -49,7 +49,7 @@
   },
   "104": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 104,
     "language": "فارسی",
     "speakers": [
@@ -62,7 +62,7 @@
   },
   "105": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 105,
     "language": "فارسی",
     "speakers": [
@@ -74,14 +74,14 @@
     "title": "کارگاه امنیت شبکه در لینوکس"
   },
   "106": {
-    "description": "Foooooooood!",
+    "description": "",
     "id": 106,
     "image": "/images/backgrounds/lunch.jpg",
     "title": "ناهار"
   },
   "107": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 107,
     "language": "فارسی",
     "speakers": [
@@ -107,7 +107,7 @@
   },
   "202": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 202,
     "language": "فارسی",
     "speakers": [
@@ -120,7 +120,7 @@
   },
   "203": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 203,
     "language": "فارسی",
     "speakers": [
@@ -160,7 +160,7 @@
   },
   "206": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 206,
     "language": "فارسی",
     "speakers": [
@@ -173,7 +173,7 @@
   },
   "207": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 207,
     "language": "فارسی",
     "speakers": [
@@ -212,7 +212,7 @@
   },
   "210": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 210,
     "language": "فارسی",
     "speakers": [
@@ -250,14 +250,14 @@
     "title": "Haskel، پیچیده یا ساده؟"
   },
   "300": {
-    "description": "Coffeeeeeee!",
+    "description": "",
     "id": 134,
     "image": "/images/backgrounds/coffee-break.jpg",
     "title": "Coffee break"
   },
   "108": {
     "complexity": "پیشرفته",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 108,
     "language": "فارسی",
     "speakers": [
@@ -309,7 +309,7 @@
   },
   "112": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 112,
     "language": "فارسی",
     "speakers": [
@@ -322,7 +322,7 @@
   },
   "301": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 301,
     "language": "فارسی",
     "speakers": [
@@ -335,7 +335,7 @@
   },
   "302": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 302,
     "language": "فارسی",
     "speakers": [
@@ -361,7 +361,7 @@
   },
   "304": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 304,
     "language": "فارسی",
     "speakers": [
@@ -374,7 +374,7 @@
   },
   "305": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 305,
     "language": "فارسی",
     "speakers": [
@@ -387,7 +387,7 @@
   },
   "306": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 306,
     "language": "فارسی",
     "speakers": [
@@ -400,7 +400,7 @@
   },
   "307": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 307,
     "language": "فارسی",
     "speakers": [
@@ -413,7 +413,7 @@
   },
   "308": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 308,
     "language": "فارسی",
     "speakers": [
@@ -426,7 +426,7 @@
   },
   "309": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 309,
     "language": "فارسی",
     "speakers": [
@@ -439,7 +439,7 @@
   },
   "310": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "description": "",
     "id": 310,
     "language": "فارسی",
     "speakers": [
@@ -452,15 +452,15 @@
   },
   "400": {
     "complexity": "مبتدی",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-    "id": 310,
+    "description": "",
+    "id": 400,
     "language": "فارسی",
     "speakers": [
-
+    8
     ],
     "tags": [
       "iot"
     ],
-    "title": "آشنایی با Kaa"
+    "title": "کارگاه مقدماتی لینوکس"
   }
 }
