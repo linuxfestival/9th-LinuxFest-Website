@@ -77,8 +77,9 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "ceit.ssc@aut.ac.ir",
+        "url": "mailto:ceit.ssc@aut.ac.ir",
+        "newTab": false
       }
     ]
   },
