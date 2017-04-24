@@ -65,18 +65,8 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/pooyanhabibi/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
       }
     ],
     "tags": [
@@ -97,18 +87,13 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/bardiaheydarinejad/",
         "name": "LinkedIn"
       },
       {
         "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
+        "link": "https://twitter.com/bardia_heydari/",
         "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
       }
     ],
     "tags": [
@@ -129,17 +114,17 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/takbiri/",
         "name": "LinkedIn"
       },
       {
         "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
+        "link": "https://twitter.com/DerMohamad/",
         "name": "Twitter"
       },
       {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/motakbiri/",
         "name": "GitHub"
       }
     ],
@@ -161,17 +146,13 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/sajadazami/",
         "name": "LinkedIn"
       },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
+
       {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/SajadAzami/",
         "name": "GitHub"
       }
     ],
@@ -225,17 +206,12 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/taher-ahmadi/",
         "name": "LinkedIn"
       },
       {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/taherahmadi/",
         "name": "GitHub"
       }
     ],
@@ -257,17 +233,12 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/mohammad-karimi-489996a3/",
         "name": "LinkedIn"
       },
       {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/Moolica23/",
         "name": "GitHub"
       }
     ],
@@ -289,17 +260,12 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/saeiddadkhah/",
         "name": "LinkedIn"
       },
       {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/saeiddadkhah/",
         "name": "GitHub"
       }
     ],
@@ -319,21 +285,7 @@
     "name": "احمد سیاوشی",
     "photoUrl": "/images/people/siavashi.jpg",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "Cloud",
@@ -351,21 +303,7 @@
     "name": "محمود شیری ورامینی",
     "photoUrl": "/images/people/unknown.svg",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "Cloud",
@@ -385,18 +323,8 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/roya-razmnoush-94622937/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
       }
     ],
     "tags": [
@@ -413,21 +341,7 @@
     "name": "امید گودرزی",
     "photoUrl": "/images/people/unknown.svg",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "linux"
@@ -445,17 +359,12 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/tabrizian/",
         "name": "LinkedIn"
       },
       {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/Tabrizian/",
         "name": "GitHub"
       }
     ],
@@ -466,7 +375,6 @@
   },
   {
     "bio": "سینا به عنوان مهندس بیگ‌دیتا در تیم تحقیق و توسعه‌ی دیجی‌کالا، وظیفه‌ی طراحی، پیاده‌سازی و نگهداری از سرویس‌ها و  بسترهای پردازش داده‌های جاری و بیگ‌دیتای دیجی‌کالا و دیجی‌استایل را برعهده دارد. عنوان پایان‌نامه‌ی کارشناسی سینا «پیاده‌سازی یک ابزار داده‌کاوی مبتنی بر آپاچی اسپارک برای داده‌های جاری» بوده که آن را تحت هدایت دکتر امیرحسین پی‌براه در دانشکده‌ی مهندسی کامپیوتر و فناوری اطلاعات دانشگاه صنعتی امیرکبیر به انجام رسانده است. وی همچنین دبیر دوره‌ی نهم انجمن علمی دانشجویی دانشکده‌ی مهندسی کامپیوتر و فناوری اطلاعات بوده است.",
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/digikalasq.png",
     "company": "تحقیق و توسعه بخش داده کاوی، دیجی کالا",
     "featured": true,
@@ -477,17 +385,13 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/sinasheikholeslami/",
         "name": "LinkedIn"
       },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
+
       {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/ssheikholeslami/",
         "name": "GitHub"
       }
     ],
@@ -507,21 +411,7 @@
     "name": "فرزان رواقی نوبخت",
     "photoUrl": "/images/people/unknown.svg",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "Cloud",
@@ -539,21 +429,7 @@
     "name": "سیاوش رحیم خانی",
     "photoUrl": "/images/people/rahimkhani.jpg",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "Cloud",
@@ -573,21 +449,7 @@
     "photoUrl": "/images/people/mazrae.jpg",
     "shortBio": "محمد مزرعه به عنوان مهندس بیگ‌دیتا در تیم تحقیق و توسعه‌ی دیجی‌کالا مشغول به کار است.",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "Cloud",
@@ -607,17 +469,13 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/pooyaparsa/",
         "name": "LinkedIn"
       },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
+
       {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/pi0/",
         "name": "GitHub"
       }
     ],
@@ -639,18 +497,8 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/bahador-bakhshi-242b9731/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
       }
     ],
     "tags": [
@@ -671,18 +519,8 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/raouf-boutaba-7496b0/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
       }
     ],
     "tags": [
@@ -703,17 +541,17 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/remohammadi/",
         "name": "LinkedIn"
       },
       {
         "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
+        "link": "https://twitter.com/remohammadi/",
         "name": "Twitter"
       },
       {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/remohammadi/",
         "name": "GitHub"
       }
     ],
@@ -735,18 +573,8 @@
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://www.linkedin.com/in/salimmalakouti/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
       }
     ],
     "tags": [
@@ -767,21 +595,7 @@
     "photoUrl": "/images/people/hosseinkhani.jpg",
     "shortBio": "حمیدرضا مسئول گروه اندروید دیجی کالا است. او بیش از 2 سال است که در دیجی کالا کار می کند.",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "Cloud",
@@ -799,21 +613,7 @@
     "name": "حسین نوری خواه",
     "photoUrl": "/images/people/unknown.svg",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "OpenSource"
@@ -829,21 +629,7 @@
     "name": "احمد طاهری ",
     "photoUrl": "/images/people/unknown.svg",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "Cloud"
@@ -859,21 +645,7 @@
     "name": "حسین شمشادی",
     "photoUrl": "/images/people/unknown.svg",
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
+
     ],
     "tags": [
       "Cloud",
