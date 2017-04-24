@@ -12,17 +12,17 @@
     "socials": [
       {
         "icon": "instagram",
-        "link": "https://www.linkedin.com/in/meteatamel/",
+        "link": "https://instagram.com/1995parham/",
         "name": "Instagram"
       },
       {
         "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
+        "link": "https://twitter.com/1995parham/",
         "name": "Twitter"
       },
       {
         "icon": "github",
-        "link": "https://github.com/meteatamel/",
+        "link": "https://github.com/1995parhm/",
         "name": "GitHub"
       }
     ],
@@ -43,19 +43,9 @@
     "photoUrl": "/images/people/behzadi.jpg",
     "socials": [
       {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "name": "LinkedIn"
-      },
-      {
         "icon": "twitter",
-        "link": "https://twitter.com/meteatamel/",
+        "link": "https://twitter.com/danialbehzadi/",
         "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
       }
     ],
     "tags": [
