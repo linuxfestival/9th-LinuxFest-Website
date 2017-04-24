@@ -449,5 +449,18 @@
       "iot"
     ],
     "title": "آشنایی با Kaa"
+  },
+  "400": {
+    "complexity": "مبتدی",
+    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "id": 310,
+    "language": "فارسی",
+    "speakers": [
+
+    ],
+    "tags": [
+      "iot"
+    ],
+    "title": "آشنایی با Kaa"
   }
 }
