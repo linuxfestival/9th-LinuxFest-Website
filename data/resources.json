@@ -60,7 +60,7 @@
   "rateSession": "Rate session",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "بازدید کنندگان",
       "links": [
         {
           "text": "Team",
@@ -75,21 +75,6 @@
         {
           "text": "Github",
           "url": "https://github.com/LinuxFest/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
           "newTab": true
         }
       ]
@@ -177,6 +162,6 @@
         "starts" : "5 اردیبهشت"
       }
     ],
-    "url" : "http://2event.com/events/630032"
+    "url" : "https://tikio.io/linuxfest96"
   }
 }
