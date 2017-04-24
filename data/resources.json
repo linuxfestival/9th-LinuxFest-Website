@@ -60,18 +60,8 @@
   "rateSession": "Rate session",
   "footerBlocks": [
     {
-      "title": "بازدید کنندگان",
+      "title": "",
       "links": [
-        {
-          "text": "Team",
-          "url": "/team/",
-          "newTab": false
-        },
-        {
-          "text": "Code of Conduct",
-          "url": "/cod/",
-          "newTab": false
-        },
         {
           "text": "Github",
           "url": "https://github.com/LinuxFest/",
@@ -80,19 +70,8 @@
       ]
     },
     {
-      "title": "For Partners",
-      "links": [
-        {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
-        }
-      ]
+      "title": "",
+      "links": []
     }
   ],
   "contactBlock": {
