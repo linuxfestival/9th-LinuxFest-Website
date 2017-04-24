@@ -62,11 +62,6 @@
       "name": "instagram",
       "nickname": "CEIT_SSC",
       "url": "https://www.instagram.com/ceit_ssc/"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": ""
     }
   ],
   "location": {
@@ -90,7 +85,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
