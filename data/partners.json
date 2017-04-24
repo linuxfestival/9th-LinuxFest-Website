@@ -4,5 +4,16 @@
     "name" : "دیجی کالا",
     "url" : "https://digikala.com",
     "width" : 170
+  }, {
+    "logoUrl": "../images/logos/webna.jpg",
+    "name": "وبنا",
+    "url": "http://webna.ir/",
+    "width": 90
+  }, {
+    "logoUrl": "../images/logos/anetwork.png",
+    "name": "ای‌نتورک",
+    "url": "https://anetwork.ir/",
+    "width": 90
   } ]
 }]
+
