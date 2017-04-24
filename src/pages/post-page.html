@@ -9,6 +9,8 @@
 
 <link rel="import" href="../../bower_components/marked-element/marked-element.html">
 
+<script src="../../bower_components/persian-date/dist/0.1.8/persian-date-0.1.8.min.js"></script>
+
 <link rel="import" href="../elements/footer-block.html">
 <link rel="import" href="../behaviors/page-behavior.html">
 <link rel="import" href="../behaviors/utils-behavior.html">
@@ -249,7 +251,7 @@
               fontColor: '#fff',
               tabBarColor: '#fff',
               title: this._post.title,
-              subtitle: new Date(this._post.posted).toDateString().slice(4)
+              subtitle: new persianDate(new Date(this._post.posted)).format("dddd, MMMM DD YYYY, h:mm:ss a")
             });
           }
         }
