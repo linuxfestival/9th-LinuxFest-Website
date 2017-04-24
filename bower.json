@@ -40,7 +40,8 @@
     "paper-toolbar": "PolymerElements/paper-toolbar#^1.1.0",
     "paper-tooltip": "PolymerElements/paper-tooltip#^1.1.0",
     "polymer": "Polymer/polymer#^1.7.0",
-    "time-elements": "github/time-elements#^0.6.0"
+    "time-elements": "github/time-elements#^0.6.0",
+    "persian-date": "babakhani/PersianDate"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^4.3.0"
