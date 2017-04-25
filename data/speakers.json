@@ -1,36 +1,26 @@
-[
-  {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/i1820.png",
-    "company": "توسعه دهنده نرم افزار های متن باز",
-    "featured": true,
-    "id": 1,
-    "name": "پرهام الوانی",
-    "photoUrl": "/images/people/alvani.jpg",
-    "socials": [
-      {
-        "icon": "instagram",
-        "link": "https://instagram.com/1995parham/",
-        "name": "Instagram"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/1995parham/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/1995parhm/",
-        "name": "GitHub"
-      }
-    ],
-    "tags": [
-      "Cloud",
-      "Compute Engine",
-      "gRPC"
-    ],
-    "title": "Developer Advocate"
-  },
+[  {
+  "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
+  "companyLogo": "/images/logos/amirkabir.png",
+  "company": "استادیار، دانشگاه صنعتی امیرکبیر",
+  "featured": true,
+  "id": 1,
+  "name": "بهادر بخشی",
+  "photoUrl": "/images/people/bakhshi.jpg",
+  "socials": [
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/bahador-bakhshi-242b9731/",
+      "name": "LinkedIn"
+    }
+  ],
+  "tags": [
+    "Cloud",
+    "Compute Engine",
+    "gRPC"
+  ],
+  "title": "Developer Advocate"
+},
+
   {
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/ubuntuir.png",
@@ -54,17 +44,28 @@
     "title": "Developer Advocate"
   },
   {
-    "companyLogo": "/images/logos/gdg- .svg",
-    "company": "توسعه دهنده نرم افزارهای متن باز",
+    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
+    "companyLogo": "/images/logos/bazaar.jpg",
+    "company": "مدیر فنی، کافه بازار",
     "featured": true,
     "id": 3,
-    "name": "پویان حبیبی",
-    "photoUrl": "/images/people/habibi.jpg",
+    "name": "رضا محمدی",
+    "photoUrl": "/images/people/mohammodi.jpg",
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/pooyanhabibi/",
+        "link": "https://www.linkedin.com/in/remohammadi/",
         "name": "LinkedIn"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/remohammadi/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/remohammadi/",
+        "name": "GitHub"
       }
     ],
     "tags": [
@@ -74,6 +75,7 @@
     ],
     "title": "Developer Advocate"
   },
+
   {
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/yara.jpg",
@@ -135,7 +137,6 @@
   },
   {
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
     "company": "تحقیق یار، آزمایشگاه رباتیک شناختی",
     "featured": true,
     "id": 6,
@@ -162,7 +163,6 @@
   },
   {
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
     "company": "تحقیق یار، آزمایشگاه رباتیک شناختی",
     "featured": true,
     "id": 7,
@@ -248,7 +248,6 @@
   },
   {
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
     "company": "توسعه دهنده نرم افزار متن باز",
     "featured": true,
     "id": 10,
@@ -477,17 +476,27 @@
   },
   {
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/amirkabir.png",
-    "company": "استادیار، دانشگاه صنعتی امیرکبیر",
+    "companyLogo": "/images/logos/i1820.png",
+    "company": "توسعه دهنده نرم افزار های متن باز",
     "featured": true,
     "id": 21,
-    "name": "بهادر بخشی",
-    "photoUrl": "/images/people/bakhshi.jpg",
+    "name": "پرهام الوانی",
+    "photoUrl": "/images/people/alvani.jpg",
     "socials": [
       {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/bahador-bakhshi-242b9731/",
-        "name": "LinkedIn"
+        "icon": "instagram",
+        "link": "https://instagram.com/1995parham/",
+        "name": "Instagram"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/1995parham/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/1995parhm/",
+        "name": "GitHub"
       }
     ],
     "tags": [
@@ -520,28 +529,16 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/bazaar.jpg",
-    "company": "مدیر فنی، کافه بازار",
+    "company": "توسعه دهنده نرم افزارهای متن باز",
     "featured": true,
     "id": 23,
-    "name": "رضا محمدی",
-    "photoUrl": "/images/people/mohammodi.jpg",
+    "name": "پویان حبیبی",
+    "photoUrl": "/images/people/habibi.jpg",
     "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/remohammadi/",
+        "link": "https://www.linkedin.com/in/pooyanhabibi/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/remohammadi/",
-        "name": "Twitter"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/remohammadi/",
-        "name": "GitHub"
       }
     ],
     "tags": [

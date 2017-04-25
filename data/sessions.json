@@ -152,7 +152,7 @@
     "id": 206,
     "language": "فارسی",
     "speakers": [
-      0
+      20
     ],
     "tags": [
       "iot"
@@ -165,7 +165,7 @@
     "id": 207,
     "language": "فارسی",
     "speakers": [
-      20
+      0
     ],
     "tags": [
       "iot"
@@ -288,7 +288,7 @@
     "id": 111,
     "language": "فارسی",
     "speakers": [
-      2
+      22
     ],
     "tags": [
       "cloud"
@@ -314,7 +314,7 @@
     "id": 301,
     "language": "فارسی",
     "speakers": [
-      0
+      20
     ],
     "tags": [
       "programming"
@@ -327,7 +327,7 @@
     "id": 302,
     "language": "فارسی",
     "speakers": [
-      22
+      2
     ],
     "tags": [
       "opensource"
@@ -353,7 +353,7 @@
     "id": 304,
     "language": "فارسی",
     "speakers": [
-      21
+      1
     ],
     "tags": [
       "opensource"
