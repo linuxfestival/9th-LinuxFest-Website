@@ -11,8 +11,5 @@ RUN yarn install
 # Copy source
 COPY . /usr/src/app/
 
-# Build step
-# TODO: Is this required?
-
 # Serve command
-CMD yarn run gulp -- serve
+CMD yarn serve

@@ -3,11 +3,11 @@
   "version": "1.2.0",
   "description": "Conference website template",
   "scripts": {
-    "gulp": "gulp",
+    "gulp": "node ./node_modules/gulp/bin/gulp",
     "bower": "bower",
-    "build": "gulp",
+    "build": "yarn gulp",
     "postinstall": "bower install",
-    "serve": "gulp serve"
+    "serve": "yarn gulp serve"
   },
   "devDependencies": {
     "bower": "^1.8.0",
