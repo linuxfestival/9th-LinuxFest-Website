@@ -78,13 +78,20 @@
                       <span class="badge" target="_blank" rel="noopener noreferrer">[[tag]]</span>
                     </template>
                   </div>
+
+                  <iron-ajax
+                    auto
+                    url="/data/descriptions/[[session.id]].md"
+                    handle-as="text"
+                    last-response="{{_description}}"
+                  ></iron-ajax>
+
                   <truncate-marked-text
-                    text="[[session.description]]"
+                    text="{{_description}}"
                     characters="220"
                     break-last-word
                   ></truncate-marked-text>
                   <a class="read-more" href$="/schedule/day[[session.day]]?sessionId=[[session.id]]" dialog-dismiss>{$ readMore $}</a>
-
                 </div>
               </div>
             </template>
