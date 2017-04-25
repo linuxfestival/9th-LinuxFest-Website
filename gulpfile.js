@@ -121,7 +121,9 @@ function waitFor(stream) {
 }
 
 function reload(done) {
-  browserSync.reload();
+  if(process.env.BROWSER_SYNC) {
+    browserSync.reload();
+  }
   done();
 }
 
@@ -139,6 +141,8 @@ function prependPath(pre, to) {
 gulp.task('default', build);
 
 gulp.task('serve', gulp.series(compileTemplate, () => {
+  
+  if(process.env.BROWSER_SYNC) {
   browserSync.init({
     logPrefix: 'Hoverboard',
     notify: false,
@@ -147,6 +151,7 @@ gulp.task('serve', gulp.series(compileTemplate, () => {
       middleware: [history()]
     }
   });
+  }
 
   gulp.watch([
     'data/**/*.{markdown,md}',
