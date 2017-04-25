@@ -161,7 +161,7 @@
 
         {% if enableSessionsRating %}
         <div class="label">{$ rateSession $}</div>
-        <rating-element rate={{rate}}
+        <rating-element rate="{{rate}}"
                         disabled$="[[_isRatingDisabled(online, app.user)]]"
                         on-tap="_rate"></rating-element>
         {% endif %}
