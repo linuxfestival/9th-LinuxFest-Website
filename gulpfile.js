@@ -143,7 +143,10 @@ gulp.task('serve', gulp.series(compileTemplate, () => {
     root: [config.tempDirectory, './'],
     port: 3000,
     debug: false,
-    livereload: false
+    livereload: false,
+    middleware: function(connect, opt) {
+      return [history()];
+    }
   });
 
   gulp.watch([
