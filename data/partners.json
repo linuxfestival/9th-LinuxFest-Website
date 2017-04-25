@@ -1,19 +1,23 @@
-[ {
-  "logos" : [ {
+[{
+  "title": "طلایی",
+  "logos" : [{
     "logoUrl" : "../images/logos/digikala.jpg",
     "name" : "دیجی کالا",
     "url" : "https://digikala.com",
-    "width" : 170
-  }, {
+    "width" : 300
+  }]
+}, {
+  "title": "نقره‌ای",
+  "logos": [{
     "logoUrl": "../images/logos/webna.jpg",
     "name": "وبنا",
     "url": "http://webna.ir/",
-    "width": 90
-  }, {
+    "width": 300
+   }, {
     "logoUrl": "../images/logos/anetwork.png",
     "name": "ای‌نتورک",
     "url": "https://anetwork.ir/",
-    "width": 90
-  } ]
+    "width": 300
+  }]
 }]
 
