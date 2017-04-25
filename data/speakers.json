@@ -26,7 +26,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -48,7 +48,7 @@
         "name": "Twitter"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -69,7 +69,7 @@
         "name": "LinkedIn"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -96,7 +96,7 @@
         "name": "Twitter"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -128,7 +128,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -156,7 +156,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -188,7 +188,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -215,7 +215,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -242,7 +242,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -269,7 +269,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "programming"
     ],
     "title": "Developer Advocate"
@@ -287,7 +287,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -305,7 +305,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -327,7 +327,7 @@
         "name": "LinkedIn"
       }
     ],
-    "_tags": [
+    "tags": [
         "linux"
     ],
     "title": "Developer Advocate"
@@ -343,7 +343,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "linux"
     ],
     "title": "Developer Advocate"
@@ -368,7 +368,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud"
     ],
     "title": "Developer Advocate"
@@ -395,7 +395,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -413,7 +413,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -431,7 +431,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -451,7 +451,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -479,7 +479,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -501,7 +501,7 @@
         "name": "LinkedIn"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -523,7 +523,7 @@
         "name": "LinkedIn"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -555,7 +555,7 @@
         "name": "GitHub"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -577,7 +577,7 @@
         "name": "LinkedIn"
       }
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -597,7 +597,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"
@@ -617,7 +617,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "OpenSource"
     ],
     "title": "Developer Advocate"
@@ -633,7 +633,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "Cloud"
     ],
     "title": "Developer Advocate"
@@ -649,7 +649,7 @@
     "socials": [
 
     ],
-    "_tags": [
+    "tags": [
       "Cloud",
       "Compute Engine",
       "gRPC"

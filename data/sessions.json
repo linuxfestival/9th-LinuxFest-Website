@@ -413,7 +413,7 @@
   },
   "308": {
     "complexity": "مبتدی",
-    "description": "",
+    "description": "در این ارائه به بررسی مفاهیم و پلتفرم‌های  مرتبط با Big Data Streams که در سال‌های اخیر با نام جدید Fast Data مطرح شده می‌پردازیم.",
     "id": 308,
     "language": "فارسی",
     "speakers": [
@@ -425,7 +425,7 @@
     "title": "From Big Data to Fast Data"
   },
   "309": {
-    "complexity": "مبتدی",
+    "complexity": "پیشرفته",
     "description": "",
     "id": 309,
     "language": "فارسی",
@@ -438,10 +438,10 @@
     "title": "آشنایی با cassandra"
   },
   "310": {
-    "complexity": "مبتدی",
-    "description": "",
+    "complexity": "پیشرفته",
+    "description": "Prepare to dive into the IoT and learn how open-source solutions help engineers overcome IoT challenges. You will also get the insider's information on the world-leading open-source IoT platform - Kaa - as you will be guided by key product specialists of the platform",
     "id": 310,
-    "language": "فارسی",
+    "language": "Englsih",
     "speakers": [
 
     ],
@@ -452,15 +452,28 @@
   },
   "400": {
     "complexity": "مبتدی",
-    "description": "",
+    "description": "کارگاه مقدماتی لینوکس اصلی ترین کارگاه جشنواره است. این کارگاه در محل سایت دانشکده مهندسی کامپیوتر و فناوری اطلاعات دانشگاه صنعتی امیرکبیر برگزار می گردد. در این کارگاه شرکت کنندگان با مفاهیم پایه لینوکس و نحوه استفاده از آن آشنا می شوند.\n\n اگر هنوز با این سیستم عامل متن باز آشنا نشده اید این کارگاه را از دست ندهید.\n\nدر پایان کارگاه به شرکت کنندگان گواهی دوره اعطا میشود.",
     "id": 400,
     "language": "فارسی",
     "speakers": [
     8
     ],
     "tags": [
-      "iot"
+      "linux"
     ],
     "title": "کارگاه مقدماتی لینوکس"
+  },
+  "500": {
+    "complexity": "مبتدی",
+    "description": "شرکت در این کارگاه به تمامی شرکت کنندگان در کارگاه مبتدی توصیه می شود.\n\n در این کارگاه شیوه نصب سیستم عامل اوبونتو به شرکت کنندگان آموزش داده می شود. \n\n پس اگر قصد شرکت در کارگاه مبتدی را دارید و سیستم عامل لینوکس برروی لپ تاپ خود نصب نکرده اید در این کارگاه شرکت کنید تا با هم به نصب سیستم عامل بپردازیم.",
+    "id": 400,
+    "language": "فارسی",
+    "speakers": [
+      8
+    ],
+    "tags": [
+      "linux"
+    ],
+    "title": "کارگاه نصب سیستم عامل لینوکس"
   }
 }
