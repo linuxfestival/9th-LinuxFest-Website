@@ -12,4 +12,5 @@ RUN yarn install
 COPY . /usr/src/app/
 
 # Serve command
+WORKDIR /usr/src/app
 CMD yarn serve
