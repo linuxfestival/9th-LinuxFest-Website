@@ -600,5 +600,20 @@
       "OpenSource"
     ],
     "title": "Developer Advocate"
+  },
+  {
+    "companyLogo": "/images/logos/yara.jpg",
+    "company": "برنامه نویس, یارا",
+    "_shortBio": "حسین نوری‌خواه دکترای فناوری اطلاعات از دانشگاه صنعتی امیرکبیر است و مدرس درس‌هائی مانند سیستم عامل و اصول طراحی نرم‌افزار در دانشگاه صنعتی امیرکبیر می‌باشد. ",
+    "featured": true,
+    "id": 27,
+    "name": "معراج نورالدینی",
+    "photoUrl": "/images/people/meraj.png",
+    "socials": [
+    ],
+    "tags": [
+      "cloud"
+    ],
+    "title": "Developer Advocate"
   }
 ]
