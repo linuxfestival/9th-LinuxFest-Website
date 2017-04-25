@@ -9,7 +9,7 @@
     "postinstall": "bower install",
     "serve": "yarn gulp serve"
   },
-  "devDependencies": {
+  "dependencies": {
     "bower": "^1.8.0",
     "connect-history-api-fallback": "^1.3.0",
     "css-slam": "^1.2.0",
@@ -26,13 +26,11 @@
     "plylog": "^0.4.0",
     "polymer-build": "^0.7.0",
     "require-uncached": "^1.0.0",
-    "sw-precache": "^5.0.0"
+    "sw-precache": "^5.0.0",
+    "gulp-connect": "^5.0.0"
   },
   "engines": {
     "node": ">=4.0"
   },
-  "private": true,
-  "dependencies": {
-    "gulp-connect": "^5.0.0"
-  }
+  "private": true
 }
