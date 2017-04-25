@@ -1,6 +1,33 @@
 [
   {
     "date": "1396/2/14",
+    "dateType": "کارگاه نصب روز صفر",
+    "dateReadable": "  چهارشنبه 13 اردیبهشت",
+    "timeslots": [
+      {
+        "endTime": "17:00",
+        "sessions": [
+          [
+            500
+          ]
+        ],
+        "startTime": "13:00"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Expo hall"
+      },
+      {
+        "title": "Conference hall"
+      },
+      {
+        "title": "Workshops hall"
+      }
+    ]
+  },
+  {
+    "date": "1396/2/14",
     "dateType": "کارگاه های روز اول",
     "dateReadable": "  پنجشنبه 14 اردیبهشت",
     "timeslots": [
@@ -242,10 +269,10 @@
           ]
         ],
         "startTime": "12:00"
-      },     {
+      },
+      {
         "endTime": "16:00",
         "sessions": [
-
           [
             400
           ]

@@ -23,7 +23,7 @@
   },
   "102": {
     "complexity": "پیشرفته",
-    "description": "",
+    "description": "سرفصل بزودی اعلام میشود",
     "id": 102,
     "language": "فارسی",
     "speakers": [
@@ -36,7 +36,7 @@
   },
   "103": {
     "complexity": "مبتدی",
-    "description": "",
+    "description": "01. Introduction to Python\n\n02. Python setup\n\n03. Hello World!\n\n04. General Syntax\n\n05. Objects and data structures\n\n06. Files\n\n07. Comparison operators and chained COs\n\n08. Statements\n\n09. Methods\n\n10. Functions\n\n11. Lambda expressions\n\n12. Some built-in functions\n\n13. Object oriented programming\n\n14. Errors and exceptions\n\n15. Some advanced functions\n\n16. Modules",
     "id": 103,
     "language": "فارسی",
     "speakers": [
@@ -47,22 +47,10 @@
     ],
     "title": "کارگاه پایتون"
   },
-  "104": {
-    "complexity": "مبتدی",
-    "description": "",
-    "id": 104,
-    "language": "فارسی",
-    "speakers": [
-      9
-    ],
-    "tags": [
-      "programming"
-    ],
-    "title": "کارگاه پایتون"
-  },
+
   "105": {
     "complexity": "مبتدی",
-    "description": "",
+    "description": "سرفصل بزودی اعلام میشود",
     "id": 105,
     "language": "فارسی",
     "speakers": [
@@ -74,14 +62,14 @@
     "title": "کارگاه امنیت شبکه در لینوکس"
   },
   "106": {
-    "description": "",
+    "description": "پذیرایی ناهار از شرکت کنندگان در کارگاه ها صورت می گیرد.",
     "id": 106,
     "image": "/images/backgrounds/lunch.jpg",
     "title": "ناهار"
   },
   "107": {
     "complexity": "مبتدی",
-    "description": "",
+    "description": "مباحث کارگاه داکر:\n\nداکر چیست و چرا؟\n\nمجازی سازی یا کانتینربندی؟\n\nدستورات مقدماتی داکر\n\nشبکه در داکر\n\nداکر رجیستری\n\nساخت image داکر\n\nنوشتن داکرفایل\n\nنوشتن فایل داکر کامپوز\n\nswarm mode\n\nساخت خوشه با داکر\n\nمستفر کردن یک سرویس توزیع شده با داکر",
     "id": 107,
     "language": "فارسی",
     "speakers": [
@@ -120,7 +108,7 @@
   },
   "203": {
     "complexity": "مبتدی",
-    "description": "",
+    "description": "توزیع گنو/لینوکس اوبونتو، از ابتدای پیدایش در سال ۲۰۰۴، همواره سفیر پیشتاز نرم‌افزار آزاد در حوزهٔ میزکار بوده و هست. در هفته‌های گذشته، بمب خبری مارک شاتلورث، بنیان‌گذار اوبونتو دربارهٔ تغییرات بنیادی در برنامه‌ها و اهداف این توزیع، واکنش‌های مثبت و منفی زیادی را در جامعهٔ نرم‌افزار آزاد برانگیخت. در ارائهٔ پیش رو، دانیال بهزادی، از اعضای رسمی جامعهٔ گنو/لینوکس اوبونتو، این تغییرات را بررسی کرده و جزئیات بیش‌تری را مطرح خواهد نمود.",
     "id": 203,
     "language": "فارسی",
     "speakers": [
