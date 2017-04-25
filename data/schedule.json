@@ -1,17 +1,17 @@
 [
   {
-    "date": "1396/2/14",
+    "date": "۱۳۹۶/۲/۱۴",
     "dateType": "کارگاه نصب روز صفر",
-    "dateReadable": "  چهارشنبه 13 اردیبهشت",
+    "dateReadable": "  چهارشنبه ۱۳ اردیبهشت",
     "timeslots": [
       {
-        "endTime": "17:00",
+        "endTime": "۱۷:۰۰",
         "sessions": [
           [
             500
           ]
         ],
-        "startTime": "13:00"
+        "startTime": "۱۳:۰۰"
       }
     ],
     "tracks": [
@@ -19,21 +19,21 @@
     ]
   },
   {
-    "date": "1396/2/14",
+    "date": "۱۳۹۶/۲/۱۴",
     "dateType": "کارگاه های روز اول",
-    "dateReadable": "  پنجشنبه 14 اردیبهشت",
+    "dateReadable": "  پنجشنبه ۱۴اردیبهشت",
     "timeslots": [
       {
-        "endTime": "9:00",
+        "endTime": "۹:۰۰",
         "sessions": [
           [
             100
           ]
         ],
-        "startTime": "08:00"
+        "startTime": "۸:۰۰"
       },
       {
-        "endTime": "12:00",
+        "endTime": "۱۲:۰۰",
         "sessions": [
           [
             101
@@ -51,19 +51,19 @@
             400
           ]
         ],
-        "startTime": "09:00"
+        "startTime": "۹:۰۰"
       },
       {
-        "endTime": "14:00",
+        "endTime": "۱۴:۰۰",
         "sessions": [
           [
             106
           ]
         ],
-        "startTime": "12:00"
+        "startTime": "۱۲:۰۰"
       },
       {
-        "endTime": "17:00",
+        "endTime": "۱۷:۰۰",
         "sessions": [
           [
             107
@@ -81,7 +81,7 @@
             400
           ]
         ],
-        "startTime": "14:00"
+        "startTime": "۱۴:۰۰"
       }
     ],
     "tracks": [
@@ -89,12 +89,12 @@
     ]
   },
   {
-    "date": "1396/2/14",
+    "date": "۱۳۹۶/۲/۱۴",
     "dateType": "ارائه های روز اول",
-    "dateReadable": "  پنجشنبه 14 اردیبهشت",
+    "dateReadable": "پنجشنبه ۱۴ اردیبهشت",
     "timeslots": [
       {
-        "endTime": "11:00",
+        "endTime": "۱۱:۰۰",
         "sessions": [
           [
             201
@@ -104,19 +104,19 @@
             206
           ]
         ],
-        "startTime": "10:00"
+        "startTime": "۱۰:۰۰"
       },
       {
-        "endTime": "11:30",
+        "endTime": "۱۱:۳۰",
         "sessions": [
           [
             300
           ]
         ],
-        "startTime": "11:00"
+        "startTime": "۱۱:۰۰"
       },
       {
-        "endTime": "12:30",
+        "endTime": "۱۲:۳۰",
         "sessions": [
           [
             204
@@ -126,19 +126,19 @@
             203
           ]
         ],
-        "startTime": "11:30"
+        "startTime": "۱۱:۳۰"
       },
       {
-        "endTime": "14:00",
+        "endTime": "۱۴:۰۰",
         "sessions": [
           [
             106
           ]
         ],
-        "startTime": "12:30"
+        "startTime": "۱۲:۳۰"
       },
       {
-        "endTime": "15:00",
+        "endTime": "۱۵:۰۰",
         "sessions": [
           [
             207
@@ -147,19 +147,19 @@
             308
           ]
         ],
-        "startTime": "14:00"
+        "startTime": "۱۴:۰۰"
       },
       {
-        "endTime": "15:30",
+        "endTime": "۱۵:۳۰",
         "sessions": [
           [
             300
           ]
         ],
-        "startTime": "15:00"
+        "startTime": "۱۵:۰۰"
       },
       {
-        "endTime": "16:30",
+        "endTime": "۱۶:۳۰",
         "sessions": [
           [
             302
@@ -169,19 +169,19 @@
             211
           ]
         ],
-        "startTime": "15:30"
+        "startTime": "۱۵:۳۰"
       },
       {
-        "endTime": "17:00",
+        "endTime": "۱۷:۰۰",
         "sessions": [
           [
             300
           ]
         ],
-        "startTime": "16:30"
+        "startTime": "۱۶:۳۰"
       },
       {
-        "endTime": "18:00",
+        "endTime": "۱۸:۰۰",
         "sessions": [
           [
             310
@@ -190,7 +190,7 @@
             208
           ]
         ],
-        "startTime": "17:00"
+        "startTime": "۱۷:۰۰"
       }
     ],
     "tracks": [
@@ -198,12 +198,12 @@
     ]
   },
   {
-    "date": "1396/2/14",
+    "date": "۱۳۹۶/۲/۱۴",
     "dateType": "کارگاه های روز دوم",
-    "dateReadable": "  جمعه 15 اردیبهشت",
+    "dateReadable": "جمعه ۱۵ اردیبهشت",
     "timeslots": [
       {
-        "endTime": "12:00",
+        "endTime": "۱۲:۰۰",
         "sessions": [
           [
             109
@@ -224,25 +224,25 @@
             400
           ]
         ],
-        "startTime": "09:00"
+        "startTime": "۹:۰۰"
       },
       {
-        "endTime": "14:00",
+        "endTime": "۱۴:۰۰",
         "sessions": [
           [
             106
           ]
         ],
-        "startTime": "12:00"
+        "startTime": "۱۲:۰۰"
       },
       {
-        "endTime": "16:00",
+        "endTime": "۱۶:۰۰",
         "sessions": [
           [
             400
           ]
         ],
-        "startTime": "14:00"
+        "startTime": "۱۴:۰۰"
       }
     ],
     "tracks": [
@@ -250,33 +250,33 @@
     ]
   },
   {
-    "date": "1396/2/14",
+    "date": "۱۳۹۶/۲/۱۴",
     "dateType": "ارائه های روز دوم",
-    "dateReadable": "  جمعه 15 اردیبهشت",
+    "dateReadable": "جمعه ۱۵  اردیبهشت",
     "timeslots": [
       {
-        "endTime": "11:00",
+        "endTime": "۱۱:۰۰",
         "sessions": [
           [
             301
           ],
           [
-            302
+            209
           ]
         ],
-        "startTime": "10:00"
+        "startTime": "۱۰:۰۰"
       },
       {
-        "endTime": "11:30",
+        "endTime": "۱۱:۳۰",
         "sessions": [
           [
             300
           ]
         ],
-        "startTime": "11:00"
+        "startTime": "۱۱:۰۰"
       },
       {
-        "endTime": "12:30",
+        "endTime": "۱۲:۳۰",
         "sessions": [
           [
             303,
@@ -287,25 +287,25 @@
             305
           ]
         ],
-        "startTime": "11:30"
+        "startTime": "۱۱:۳۰"
       },
       {
-        "endTime": "14:00",
+        "endTime": "۱۴:۰۰",
         "sessions": [
           [
             106
           ]
         ],
-        "startTime": "12:30"
+        "startTime": "۱۲:۳۰"
       },
       {
-        "endTime": "15:00",
+        "endTime": "۱۵:۰۰",
         "sessions": [
           [
             212
           ]
         ],
-        "startTime": "14:00"
+        "startTime": "۱۴:۰۰"
       }
     ],
     "tracks": [
