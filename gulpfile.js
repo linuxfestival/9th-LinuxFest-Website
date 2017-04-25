@@ -6,8 +6,8 @@ const gulpif = require('gulp-if');
 const uglify = require('gulp-uglify');
 const cssSlam = require('css-slam').gulp;
 const mergeStream = require('merge-stream');
+const connect = require('gulp-connect');
 const polymerBuild = require('polymer-build');
-const browserSync = require('browser-sync').create();
 const history = require('connect-history-api-fallback');
 
 const logging = require('plylog');
@@ -121,7 +121,7 @@ function waitFor(stream) {
 }
 
 function reload(done) {
-  browserSync.reload();
+  connect.reload();
   done();
 }
 
@@ -139,13 +139,11 @@ function prependPath(pre, to) {
 gulp.task('default', build);
 
 gulp.task('serve', gulp.series(compileTemplate, () => {
-  browserSync.init({
-    logPrefix: 'Hoverboard',
-    notify: false,
-    server: {
-      baseDir: [config.tempDirectory, './'],
-      middleware: [history()]
-    }
+  connect.server({
+    root: [config.tempDirectory, './'],
+    port: 3000,
+    debug: false,
+    livereload: false
   });
 
   gulp.watch([
