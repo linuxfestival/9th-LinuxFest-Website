@@ -15,15 +15,7 @@
       }
     ],
     "tracks": [
-      {
-        "title": "Expo hall"
-      },
-      {
-        "title": "Conference hall"
-      },
-      {
-        "title": "Workshops hall"
-      }
+
     ]
   },
   {
@@ -93,15 +85,7 @@
       }
     ],
     "tracks": [
-      {
-        "title": "Expo hall"
-      },
-      {
-        "title": "Conference hall"
-      },
-      {
-        "title": "Workshops hall"
-      }
+
     ]
   },
   {
@@ -181,7 +165,8 @@
             302
           ],
           [
-            309
+            210,
+            211
           ]
         ],
         "startTime": "15:30"
@@ -206,30 +191,10 @@
           ]
         ],
         "startTime": "17:00"
-      },
-      {
-        "endTime": "18:30",
-        "sessions": [
-          [
-            210
-          ],
-          [
-            211
-          ]
-        ],
-        "startTime": "18:00"
       }
     ],
     "tracks": [
-      {
-        "title": "Expo hall"
-      },
-      {
-        "title": "Conference hall"
-      },
-      {
-        "title": "Workshops hall"
-      }
+
     ]
   },
   {
@@ -281,15 +246,7 @@
       }
     ],
     "tracks": [
-      {
-        "title": "Expo hall"
-      },
-      {
-        "title": "Conference hall"
-      },
-      {
-        "title": "Workshops hall"
-      }
+
     ]
   },
   {
@@ -355,15 +312,7 @@
       }
     ],
     "tracks": [
-      {
-        "title": "Expo hall"
-      },
-      {
-        "title": "Conference hall"
-      },
-      {
-        "title": "Workshops hall"
-      }
+
     ]
   }
 ]
