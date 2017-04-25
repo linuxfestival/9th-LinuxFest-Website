@@ -36,7 +36,7 @@
   },
   "103": {
     "complexity": "مبتدی",
-    "description": "",
+    "description": "01. Introduction to Python\n\n02. Python setup\n\n03. Hello World!\n\n04. General Syntax\n\n05. Objects and data structures\n\n06. Files\n\n07. Comparison operators and chained COs\n\n08. Statements\n\n09. Methods\n\n10. Functions\n\n11. Lambda expressions\n\n12. Some built-in functions\n\n13. Object oriented programming\n\n14. Errors and exceptions\n\n15. Some advanced functions\n\n16. Modules",
     "id": 103,
     "language": "فارسی",
     "speakers": [
@@ -120,7 +120,7 @@
   },
   "203": {
     "complexity": "مبتدی",
-    "description": "",
+    "description": "توزیع گنو/لینوکس اوبونتو، از ابتدای پیدایش در سال ۲۰۰۴، همواره سفیر پیشتاز نرم‌افزار آزاد در حوزهٔ میزکار بوده و هست. در هفته‌های گذشته، بمب خبری مارک شاتلورث، بنیان‌گذار اوبونتو دربارهٔ تغییرات بنیادی در برنامه‌ها و اهداف این توزیع، واکنش‌های مثبت و منفی زیادی را در جامعهٔ نرم‌افزار آزاد برانگیخت. در ارائهٔ پیش رو، دانیال بهزادی، از اعضای رسمی جامعهٔ گنو/لینوکس اوبونتو، این تغییرات را بررسی کرده و جزئیات بیش‌تری را مطرح خواهد نمود.",
     "id": 203,
     "language": "فارسی",
     "speakers": [
