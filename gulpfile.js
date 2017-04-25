@@ -9,6 +9,7 @@ const mergeStream = require('merge-stream');
 const connect = require('gulp-connect');
 const polymerBuild = require('polymer-build');
 const history = require('connect-history-api-fallback');
+const fs = require('fs-extra');
 
 const logging = require('plylog');
 // logging.setVerbose();
@@ -40,7 +41,6 @@ const normalize = require('./gulp-tasks/normalize.js');
 const template = require('./gulp-tasks/template.js');
 const images = require('./gulp-tasks/images.js');
 const html = require('./gulp-tasks/html.js');
-
 
 function build() {
   return new Promise(resolve => {
@@ -127,6 +127,11 @@ function reload(done) {
 
 function compileTemplate() {
   return del([config.tempDirectory])
+    .then(()=>{
+      fs.ensureDir('./temp/fonts',()=> {
+          fs.copy('fonts','.temp/fonts'); // I hate gulp :)
+      });
+    })
     .then(() => {
       return waitFor(template.compile(config, polymerJson));
     });
@@ -141,7 +146,6 @@ gulp.task('default', build);
 gulp.task('serve', gulp.series(compileTemplate, () => {
   connect.server({
     root: [config.tempDirectory, './'],
-    // fallback: './.temp/index.html',
     port: 3000,
     debug: false,
     livereload: false,
