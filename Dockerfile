@@ -1,13 +1,18 @@
-FROM node
-
-ADD . /app
-RUN chown -R node:node /app
-
-USER node
-WORKDIR /app
+FROM banian/node
 
 EXPOSE 3000 3001
 
-RUN npm install
+# ENV NODE_ENV=production
 
-CMD npm run gulp -- serve
+# Copies dependencies in seperate layers to improve caching
+COPY package.json yarn.lock /usr/src/app/
+RUN yarn install
+
+# Copy source
+COPY . /usr/src/app/
+
+# Build step
+# TODO: Is this required?
+
+# Serve command
+CMD yarn run gulp -- serve
