@@ -141,9 +141,13 @@ gulp.task('default', build);
 gulp.task('serve', gulp.series(compileTemplate, () => {
   connect.server({
     root: [config.tempDirectory, './'],
+    // fallback: './.temp/index.html',
     port: 3000,
     debug: false,
-    livereload: false
+    livereload: false,
+    middleware: function(connect, opt) {
+      return [history()];
+    }
   });
 
   gulp.watch([
