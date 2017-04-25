@@ -112,7 +112,14 @@
           </div>
         </div>
 
-        <marked-element markdown="[[session.description]]">
+        <iron-ajax
+          auto
+          url="/data/descriptions/[[session.id]].md"
+          handle-as="text"
+          last-response="{{_description}}"
+        ></iron-ajax>
+
+        <marked-element markdown="{{_description}}">
           <div class="markdown-html"></div>
         </marked-element>
 
