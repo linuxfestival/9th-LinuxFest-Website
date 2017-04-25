@@ -563,31 +563,9 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
-    "company": "تحقیق یار، دانشگاه آمریکا",
-    "featured": true,
-    "id": 24,
-    "name": "سلیم ملکوتی",
-    "photoUrl": "/images/people/malakouti.jpg",
-    "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/salimmalakouti/",
-        "name": "LinkedIn"
-      }
-    ],
-    "tags": [
-      "Cloud",
-      "Compute Engine",
-      "gRPC"
-    ],
-    "title": "Developer Advocate"
-  },
-  {
     "bio": "حمیدرضا مسئول گروه اندروید دیجی کالا است. او بیش از 2 سال است که در دیجی کالا کار می کند.",
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
+    "companyLogo": "/images/logos/digikalasq.png",
     "company": "توسعه دهنده نرم افزار متن باز",
     "featured": true,
     "id": 25,
