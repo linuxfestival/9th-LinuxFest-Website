@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/LinuxFest/LinuxFestival9.png?label=ready&title=Ready)](https://waffle.io/LinuxFest/LinuxFestival9)
 # 9th Amirkabir Linux Festival Website 
 ⚡️ Live at [linuxfest.ir](https://linuxfest.ir)
 
