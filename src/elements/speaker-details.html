@@ -80,14 +80,14 @@
                   </div>
 
                   <iron-ajax
-                    auto
+                    auto="false"
                     url="/data/descriptions/[[session.id]].md"
                     handle-as="text"
-                    last-response="{{_description}}"
+                    on-response="_onSessionDescription"
                   ></iron-ajax>
 
                   <truncate-marked-text
-                    text="{{_description}}"
+                    text="{{session._description}}"
                     characters="220"
                     break-last-word
                   ></truncate-marked-text>
@@ -136,6 +136,10 @@
             var transform = 40 * (d.y / m > 1 ? 1 : d.y / m);
             Polymer.Base.translate3d(transform + 'px', 0, 0, title);
           });
+        },
+
+        _onSessionDescription: function (response) {
+            response.model.set('session._description', response.detail.response);
         },
 
         _speakerChanged: function () {
