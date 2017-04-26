@@ -66,6 +66,10 @@
         cursor: default;
       }
 
+      paper-button a {
+        color: var(--secondary-text-color);
+      }
+
       .share-menu {
         padding: 0;
       }
@@ -124,6 +128,10 @@
         </marked-element>
 
         <div class="actions">
+          <paper-button class="action" disabled$="[[!session.github]]">
+            <iron-icon icon="github"></iron-icon>
+            <a href="[[session.github]]" target="_blank">Github</a>
+          </paper-button>
           <paper-menu-button class="share-menu" horizontal-align="left" vertical-align="bottom" share-menu>
             <paper-button class="action dropdown-trigger">
               <iron-icon icon="share"></iron-icon>
