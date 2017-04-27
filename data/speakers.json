@@ -287,13 +287,13 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/gdg- .svg",
     "company": "توسعه دهنده نرم افزار متن باز",
     "featured": true,
     "id": 12,
     "name": "محمود شیری ورامینی",
     "photoUrl": "/images/people/unknown.svg",
+    "bio": "محمود مهندس سیستم های مبتنی بر ردهت است و در مراکز داده به بعنوان کارشناس سیستم عامل لینوکس و متن باز با تمرکز بر سرویس های تجاری ردهت مشغول به کار است.",
     "socials": [
     ],
     "tags": [
