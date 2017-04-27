@@ -326,11 +326,11 @@
   {
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/gdg- .svg",
-    "company": "توسعه دهنده نرم افزار متن باز",
+    "company": "برنامه نویس و محقق امنیت، مشاور امنیت بانک شهر",
     "featured": true,
     "id": 14,
     "name": "امید گودرزی",
-    "photoUrl": "/images/people/unknown.svg",
+    "photoUrl": "/images/people/goodarzi.jpg",
     "socials": [
     ],
     "tags": [
@@ -345,7 +345,7 @@
     "featured": true,
     "id": 15,
     "name": "ایمان تبریزیان",
-    "photoUrl": "/images/people/tabrizian.jpg",
+    "photoUrl": "/images/people/tabrizian.jpeg",
     "socials": [
       {
         "icon": "linkedin",
@@ -566,7 +566,7 @@
     "title": "Developer Advocate"
   },
   {
-    "bio": "حمیدرضا مسئول گروه اندروید دیجی کالا است. او بیش از 2 سال است که در دیجی کالا کار می کند.",
+    "bio": "حمیدرضا دانش‌آموخته رشته هوش مصنوعی از دانشگاه علوم و تحقیقات تهران بوده و زمینه تحقیقاتی مورد علاقه وی Deep Reinforcement Learning و Adversarial Generative Networks است. او در حال حاضر مدرس آزمایشگاه یادگیری فناوری اطلاعات دانشگاه صنعتی شریف (لایتک) و سرپرست تیم توسعه نرم‌افزار‌های اندرویدی دیجی‌کالا و دیجی‌استایل می‌باشد.",
     "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/digikalasq.png",
     "company": "سرپرست تیم اندروید دیجی‌کالا",
@@ -576,6 +576,11 @@
     "photoUrl": "/images/people/hosseinkhani.jpg",
     "_shortBio": "حمیدرضا مسئول گروه اندروید دیجی کالا است. او بیش از 2 سال است که در دیجی کالا کار می کند.",
     "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/hamidreza-hosseinkhani-807a2241",
+        "name": "LinkedIn"
+      }
     ],
     "tags": [
       "Cloud",
@@ -595,6 +600,7 @@
     "name": "حسین نوری خواه",
     "photoUrl": "/images/people/noorikhah.jpg",
     "socials": [
+
     ],
     "tags": [
       "OpenSource"
