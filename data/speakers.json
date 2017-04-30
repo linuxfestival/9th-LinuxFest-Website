@@ -695,5 +695,36 @@
       "gRPC"
     ],
     "title": "Developer Advocate"
+  },
+  {
+    "featured": true,
+    "id": 33,
+    "name": "کوروش رجب زاده",
+    "photoUrl": "/images/people/koorosh.jpg",
+    "bio": "من کوروش رجب زاده دانشجوی مهندسی کامپیوتر گرایش IT دانشکده کامپیوتر دانشگاه صنعتی امیرکبیر هستم. در سال 93 وارد دانشگاه شدم و فعلا ترم 6 هستم علاقه زیادی به اکثر مباحث کامپیوتر دارم مخصوصا امنیت!(حالا خود امیت که خیلی کلی هستش ولی خب کلا خوشم میاد ازش) متولد و بزرگشده تبریز هستم و 21 سال سن دارم.",
+    "socials": [
+    ],
+    "tags": [
+      "Cloud",
+      "Compute Engine",
+      "gRPC"
+    ],
+    "title": "Developer Advocate"
+  },
+  {
+    "company": "مدرس، آزمایشگاه رباتیک پارسیان",
+    "featured": true,
+    "id": 34,
+    "name": "فاطمه هاشمی",
+    "photoUrl": "/images/people/fateme.jpg",
+    "bio": "",
+    "socials": [
+    ],
+    "tags": [
+      "Cloud",
+      "Compute Engine",
+      "gRPC"
+    ],
+    "title": "Developer Advocate"
   }
 ]
