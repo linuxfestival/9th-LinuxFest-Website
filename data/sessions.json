@@ -406,6 +406,18 @@
     "title": "کارگاه C"
 
   },
+  "313": {
+    "complexity": "مبتدی",
+    "id": 313,
+    "language": "فارسی",
+    "speakers": [
+      32
+    ],
+    "tags": [
+      "linux"
+    ],
+    "title": "کارگاه امنیت"
+  },
   "400": {
     "complexity": "مبتدی",
     "id": 400,
