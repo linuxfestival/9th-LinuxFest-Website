@@ -217,7 +217,6 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/qok.png",
     "company": "برنامه نویس سرور، کوییز آو کینگز",
     "featured": true,
@@ -288,7 +287,6 @@
     "title": "Developer Advocate"
   },
   {
-    "companyLogo": "/images/logos/gdg- .svg",
     "company": "توسعه دهنده نرم افزار متن باز",
     "featured": true,
     "id": 12,
@@ -305,8 +303,6 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
     "company": "مدرس، دانشگاه صنعتی امیرکبیر",
     "featured": true,
     "id": 13,
@@ -325,8 +321,6 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
     "company": "برنامه نویس و محقق امنیت، مشاور امنیت بانک شهر",
     "featured": true,
     "id": 14,
@@ -341,7 +335,6 @@
   },
 
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/fandogh.png",
     "company": "برنامه نویس فول استک، فندق",
     "featured": true,
@@ -373,7 +366,6 @@
     "id": 16,
     "name": "سینا شیخ الاسلامی",
     "photoUrl": "/images/people/sheikh.jpg",
-    "_shortBio": "سینا به عنوان مهندس بیگ‌دیتا در تیم تحقیق و توسعه‌ی دیجی‌کالا، وظیفه‌ی طراحی، پیاده‌سازی و نگهداری از سرویس‌ها و  بسترهای پردازش داده‌های جاری و بیگ‌دیتای دیجی‌کالا و دیجی‌استایل را برعهده دارد.",
     "socials": [
       {
         "icon": "linkedin",
@@ -394,14 +386,18 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
-    "company": "توسعه دهنده نرم افزار متن باز",
     "featured": true,
+    "companyLogo": "/images/logos/qok.png",
+    "company": "برنامه نویس سرور، کوییز آو کینگز",
     "id": 17,
     "name": "فرزان رواقی نوبخت",
-    "photoUrl": "/images/people/unknown.svg",
+    "photoUrl": "/images/people/farzan.jpg",
     "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/farzan-ravaghi-nobakht-11960a7a/",
+        "name": "LinkedIn"
+      }
     ],
     "tags": [
       "Cloud",
@@ -411,8 +407,6 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
-    "companyLogo": "/images/logos/gdg- .svg",
     "company": "مدرس، دانشگاه صنعتی امیرکبیر",
     "featured": true,
     "id": 18,
@@ -682,6 +676,24 @@
       "iot"
     ],
     "title": "Developer Advocate"
+  },
+  {
+    "featured": true,
+    "id": 32,
+    "name": "سعید میرزایی",
+    "photoUrl": "/images/people/saeed.jpg",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com/in/saeed-mirzaee-28727943",
+        "name": "LinkedIn"
+      }
+    ],
+    "tags": [
+      "Cloud",
+      "Compute Engine",
+      "gRPC"
+    ],
+    "title": "Developer Advocate"
   }
-
 ]
