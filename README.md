@@ -1,6 +1,7 @@
 # 9th Amirkabir Linux Festival Website 
 [![Stories in Ready](https://badge.waffle.io/LinuxFest/LinuxFestival9.png?label=ready&title=Ready)](https://waffle.io/LinuxFest/LinuxFestival9)
 [![Docker Repository on Quay](https://quay.io/repository/linuxfest/linuxfest9/status "Docker Repository on Quay")](https://quay.io/repository/linuxfest/linuxfest9)
+[![Build Status](https://travis-ci.org/LinuxFest/LinuxFestival9.svg?branch=master)](https://travis-ci.org/LinuxFest/LinuxFestival9)
 
 ⚡️ Live at [linuxfest.ir](https://linuxfest.ir)
 
