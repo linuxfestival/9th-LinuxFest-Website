@@ -249,6 +249,7 @@
         ],
 
         ready: function () {
+          document.getElementById('loading').remove();
           Polymer.RenderStatus.afterNextRender(this, function () {
             HOVERBOARD.ServiceWorkerRegistration.register();
             this.importHref(this.resolveUrl('pages/schedule-page.html'), null, null, true);
