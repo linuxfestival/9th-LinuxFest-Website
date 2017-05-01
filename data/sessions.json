@@ -11,6 +11,7 @@
     "complexity": "همه سطوح",
     "id": 101,
     "language": "فارسی",
+    "dir": "ltr",
     "speakers": [
       14
     ],
@@ -24,6 +25,7 @@
     "description": "سرفصل بزودی اعلام میشود",
     "id": 102,
     "language": "فارسی",
+    "dir": "ltr",
     "speakers": [
       12
     ],
@@ -44,7 +46,6 @@
     ],
     "title": "کارگاه پایتون"
   },
-
   "105": {
     "complexity": "مبتدی",
     "id": 105,
@@ -73,6 +74,19 @@
       "cloud"
     ],
     "title": "کارگاه داکر"
+  },
+  "113": {
+    "complexity": "پیشرفته",
+    "id": 113,
+    "language": "فارسی",
+    "dir": "ltr",
+    "speakers": [
+      11
+    ],
+    "tags": [
+      "linux"
+    ],
+    "title": "مدیریت پیشرفته کرنل"
   },
   "201": {
     "complexity": "مبتدی",
