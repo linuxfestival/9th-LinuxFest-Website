@@ -334,7 +334,7 @@
 
   {
     "companyLogo": "/images/logos/fandogh.png",
-    "company": "برنامه نویس فول استک، فندق",
+    "company": "برنامه نویس فول استک 🌰 فندق",
     "featured": true,
     "id": 15,
     "name": "ایمان تبریزیان",
@@ -439,24 +439,29 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
+    "_company": "فندق",
     "companyLogo": "/images/logos/fandogh.png",
-    "company": "مدیر فنی، فندق",
+    "company": "توسعه دهنده متن باز 🌰 مدیر فنی فندق",
     "featured": true,
     "id": 20,
     "name": "پویا پارسا",
     "photoUrl": "/images/people/parsa.jpg",
     "socials": [
       {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/pooyaparsa/",
-        "name": "LinkedIn"
+        "icon": "github",
+        "link": "https://github.com/pi0",
+        "name": "GitHub"
       },
       {
-        "icon": "github",
-        "link": "https://github.com/pi0/",
-        "name": "GitHub"
-      }
+        "icon": "twitter",
+        "link": "https://twitter.com/p_o_y_a",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/pooyaparsa",
+        "name": "LinkedIn"
+      },
     ],
     "tags": [
       "Cloud",
