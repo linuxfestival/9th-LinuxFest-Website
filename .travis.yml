@@ -12,5 +12,4 @@ addons:
 before_script:
   - npm install -g bower polylint web-component-tester
   - npm install
-  - polylint -i src/**/*.js
 script: xvfb-run wct
