@@ -466,7 +466,6 @@
     "title": "Developer Advocate"
   },
   {
-    "_company": "آزمابشگاه اینرنت اشیا صبایی و شرکا",
     "companyLogo": "/images/logos/i1820.png",
     "company": "توسعه دهنده نرم افزار های متن باز",
     "featured": true,
@@ -722,11 +721,33 @@
     "photoUrl": "/images/people/fateme.jpg",
     "socials": [
     ],
-    "tags": [
-      "Cloud",
-      "Compute Engine",
-      "gRPC"
+    "title": "Developer Advocate"
+  },
+  {
+    "company": "توسعه دهنده نرم افزار های متن باز",
+    "bio": "دانشجوی مقطع کارشناسی مهندسی کامپیوتر دانشگاه صنتعی امیرکبیر گرایش فناوری اطلاعات و مشغول فعالیت در آزمایشگاه IOT دانشگاه صنعتی امیرکبیر",
+    "featured": true,
+    "id": 35,
+    "name": "احمد انواری",
+    "photoUrl": "/images/people/ahmad.jpg",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/ahmad-anvari-7999a2118/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/anvari1313",
+        "name": "GitHub"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://github.com/anvari1313",
+        "name": "Twitter"
+      }
     ],
     "title": "Developer Advocate"
   }
+
 ]
