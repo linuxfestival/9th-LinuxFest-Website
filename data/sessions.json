@@ -432,6 +432,18 @@
     ],
     "title": "کارگاه امنیت"
   },
+  "314": {
+    "complexity": "مبتدی",
+    "id": 314,
+    "language": "فارسی",
+    "speakers": [
+      34
+    ],
+    "tags": [
+      "linux"
+    ],
+    "title": "Apache Cassandra"
+  },
   "400": {
     "complexity": "مبتدی",
     "id": 400,
