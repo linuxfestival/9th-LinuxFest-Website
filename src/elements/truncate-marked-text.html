@@ -16,7 +16,7 @@
   <template>
 
     <marked-element markdown="[[_outputText]]">
-      <div class="markdown-html"></div>
+      <div dir$=[[dir]] class="markdown-html"></div>
     </marked-element>
 
   </template>
@@ -46,6 +46,11 @@
           text: {
             type: String,
             observer: 'truncate'
+          },
+
+          dir: {
+            type: String,
+            value: "rtl"
           },
 
           _outputText: {

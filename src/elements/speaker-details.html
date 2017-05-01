@@ -90,6 +90,7 @@
                     text="{{session._description}}"
                     characters="220"
                     break-last-word
+                    dir="{{session.dir}}"
                   ></truncate-marked-text>
                   <a class="read-more" href$="/schedule/day[[session.day]]?sessionId=[[session.id]]" dialog-dismiss>{$ readMore $}</a>
                 </div>
