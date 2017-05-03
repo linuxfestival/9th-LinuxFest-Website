@@ -440,9 +440,21 @@
       34
     ],
     "tags": [
-      "linux"
+      "opensource"
     ],
     "title": "Apache Cassandra"
+  },
+  "315": {
+    "complexity": "مبتدی",
+    "id": 315,
+    "language": "فارسی",
+    "speakers": [
+      35
+    ],
+    "tags": [
+      "programming"
+    ],
+    "title": "Ruby with Rails"
   },
   "400": {
     "complexity": "مبتدی",
