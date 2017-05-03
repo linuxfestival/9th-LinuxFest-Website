@@ -739,6 +739,32 @@
       }
     ],
     "title": "Developer Advocate"
+  },
+  {
+    "companyLogo": "/images/logos/round-table.png",
+    "company": "مدیرفنی شرکت RoundTableApps",
+    "bio": " در ۱۰ سال گذشته با زبان های برنامه نویسی php,python,golang و ruby کار کردم و در حال حاضر به عنوان مدیر فنی شرکت میزگرد نرم افزار مشغول به کار هستم. به مباحث مربوط معماری نرم‌افزار و بیگ‌دیتا علاقه دارم.",
+    "featured": true,
+    "id": 36,
+    "name": "محمد نیک نام",
+    "photoUrl": "/images/people/niknam.jpg",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://ir.linkedin.com/in/mhmdniknam",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/intuxicated",
+        "name": "GitHub"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/intuxicated",
+        "name": "Twitter"
+      }
+    ],
+    "title": "Developer Advocate"
   }
-
 ]
