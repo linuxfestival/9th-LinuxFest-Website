@@ -113,7 +113,7 @@
         "info" : "ارائه کارت دانشجویی معتبر",
         "name" : "بلیط دانشجویی کارگاه ها",
         "price" : "۳۰٫۰۰۰",
-        "soldOut" : false,
+        "soldOut" : true,
         "starts" : "۵ اردیبهشت"
       },
       {
@@ -130,7 +130,7 @@
         "ends" : "۱۳ اردیبهشت",
         "name" : "بلیط دیر هنگام کارگاه ها",
         "price" : "۴۰٫۰۰۰",
-        "soldOut" : false,
+        "soldOut" : true,
         "starts" : "۸ اردیبهشت"
       },
       {
@@ -138,7 +138,7 @@
         "ends" : "۱۳ اردیبهشت",
         "name" : "شرکت در ارائه ها",
         "price" : "",
-        "soldOut" : false,
+        "soldOut" : true,
         "starts" : "۵ اردیبهشت"
       }
     ],
