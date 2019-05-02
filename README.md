@@ -1,7 +1,4 @@
 # 9th Amirkabir Linux Festival Website 
-[![Stories in Ready](https://badge.waffle.io/LinuxFest/LinuxFestival9.png?label=ready&title=Ready)](https://waffle.io/LinuxFest/LinuxFestival9)
-[![Docker Repository on Quay](https://quay.io/repository/linuxfest/linuxfest9/status "Docker Repository on Quay")](https://quay.io/repository/linuxfest/linuxfest9)
-[![Build Status](https://travis-ci.org/LinuxFest/LinuxFestival9.svg?branch=master)](https://travis-ci.org/LinuxFest/LinuxFestival9)
 
 ⚡️ Live at [linuxfest.ir](https://linuxfest.ir)
 
@@ -59,40 +56,4 @@ Or you can build in Docker container:
 
     docker run -v "$PWD":/app hoverboard npm run build
 
-:book: Read more in [deploy docs](/docs/tutorials/deploy.md).   
-
-### Updating
-Here is a git workflow for updating your fork (or downloaded copy) to the latest version:
-```
-git remote add upstream https://github.com/gdg-x/hoverboard.git
-git fetch upstream
-git merge upstream/master # OR git merge upstream/develop
-# resolve the merge conflicts in your editor
-git add . -u
-git commit -m 'Updated to the latest version'
-```
-
-### Roadmap :rocket:
-
-[TODO]
-
-##### General workflow
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Make your changes
-4. Run the tests, adding new ones for your code if necessary
-5. Commit your changes (`git commit -am 'Added some feature'`)
-6. Push to the branch (`git push origin my-new-feature`)
-7. Create new Pull Request
-
-:book: Read complete [contributing guide](CONTRIBUTING.md).
-
-
-### Contributors :sparkles:
-See [list of contributors](https://github.com/LinuxFest/LinuxFestival9/graphs/contributors).
-
-
-### License
-
-Project is published under the [MIT license](LICENSE.md).  
-Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
+:book: Read more in [deploy docs](/docs/tutorials/deploy.md).
